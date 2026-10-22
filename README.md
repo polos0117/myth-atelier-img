@@ -22,3 +22,13 @@ img/thumb/<같은 이름>              목록용. 워크플로가 만든다
 이 저장소의 Actions 비밀 `CODE_REPO_TOKEN` 이 있으면 코드 저장소의 `그림 등록` 을 깨운다.
 토큰 만드는 법은 pkm-atelier-img README 와 같다: Fine-grained token, 저장소 `myth-atelier`
 하나, Contents Read and write, 이 저장소 Secrets 에 `CODE_REPO_TOKEN`.
+
+## 도트
+
+```
+sprites/<이름>/<이름>_<폼>_<상태>.png          정리한 도트(칸 96×128, 상태 still · idle · walk · react). img/ 밖이라 썸네일·등록기가 읽지 않는다
+sprites/<이름>/raw/<이름>_<폼>_<상태>_genN.png  생성 원본 그대로(지우지 않는다)
+records/sprites/<이름>/<상태>.json              정리 기록 — 원본 sha256 · 정리본 sha1 · 정리 인자 · 재생
+```
+
+만드는 곳은 공방 모음의 도트 공방(`polos0117.github.io/dot.html`), 세우는 자료는 코드 저장소 `data/sprites.json`(인물 칸 — card 는 무기 이름).

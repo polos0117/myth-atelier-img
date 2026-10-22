@@ -1,0 +1,78 @@
+{
+ "date": "2026-10-22",
+ "author": "claude",
+ "atelier": "myth",
+ "id": "brionac",
+ "form": "base",
+ "state": "still",
+ "plan": "polos0117.github.io dot.html — 공용 도트 공방",
+ "generation": {
+  "file": "sprites/brionac/raw/brionac_base_still_gen1.png",
+  "sha256": "ccf95db5f16362767ab8709295abd65e80eb457436d99ba1d95368acef30fe71",
+  "by": "gpt",
+  "received_as": "1000023998.png"
+ },
+ "cleaned": {
+  "file": "sprites/brionac/brionac_base_still.png",
+  "sha1": "e01fb2e1cbbd",
+  "tool": "polos0117.github.io dot.html (rust/dot-core — book-atelier 파이썬 도구와 같은 셈)",
+  "args": [
+   "24",
+   "--rows",
+   "121",
+   "--outline"
+  ],
+  "rows": 121,
+  "pitch": [
+   6.05,
+   6.05
+  ],
+  "offset": [
+   0.75,
+   0.5
+  ],
+  "sprite": [
+   79,
+   123
+  ],
+  "cell": [
+   96,
+   128
+  ],
+  "cell_offset": [
+   8,
+   3
+  ],
+  "foot_y": 126,
+  "colours": 24,
+  "palette": [
+   "#350508",
+   "#422724",
+   "#48090c",
+   "#592314",
+   "#711319",
+   "#74361b",
+   "#8f4e26",
+   "#901d22",
+   "#925e4b",
+   "#ad5b3e",
+   "#ae6e39",
+   "#b9866c",
+   "#ba9994",
+   "#c23731",
+   "#cd8b4d",
+   "#d6734c",
+   "#d6bab8",
+   "#dcab8b",
+   "#eaae63",
+   "#f2a78c",
+   "#facb82",
+   "#fcc6ab",
+   "#fce8b0",
+   "#fdebd4"
+  ]
+ },
+ "flip": {
+  "allowed": true
+ }
+}

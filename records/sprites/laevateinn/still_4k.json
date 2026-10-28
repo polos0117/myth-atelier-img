@@ -1,0 +1,111 @@
+{
+ "date": "2026-10-28",
+ "author": "claude",
+ "atelier": "myth",
+ "id": "laevateinn",
+ "form": "base",
+ "state": "still",
+ "plan": "polos0117.github.io dot.html — 공용 도트 공방",
+ "generation": {
+  "file": "sprites/laevateinn/raw/laevateinn_base_still_gen1.png",
+  "sha256": "db79890eba6f66529a276353442c768146e9281e2297dffbca4c46d4ea063923",
+  "by": "gpt",
+  "received_as": "laevateinn_base_still_gen1.png",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "size": "2160x3840",
+  "usage": {
+   "input_tokens": 3366,
+   "input_tokens_details": {
+    "image_tokens": 2988,
+    "text_tokens": 378
+   },
+   "output_tokens": 865,
+   "output_tokens_details": {
+    "image_tokens": 865,
+    "text_tokens": 0
+   },
+   "total_tokens": 4231
+  },
+  "seconds": 30.4,
+  "attachments": [
+   "canonical",
+   "sample_x6"
+  ],
+  "prompt": "Pixel art game sprite of the SAME young woman shown in attached image 1. Copy the face, hair, skin tone, outfit and palette from image 1.\nAttached image 2 is a finished sprite of a different character from the same game: match its pixel size, outline, shading style and body proportions exactly, but NOT its outfit or colours.\nLong wavy golden-blonde hair under a dark thorny crown, a black gown with a high slit flowing into a cape of living flame in ember orange and soot black, gold filigree at the waist and arms, bare legs with gold anklets and black-and-gold heeled sandals, a slender blade of flame over blackened iron held at the image-left side.\nDo not draw any background, furniture, props or scenery from the attachments.\n\nDraw with very large chunky pixels (each sprite pixel a crisp 25 x 25 square), about 16 colours,\nabout 4 heads tall (not chibi), and about half the decoration of image 1 — keep only the shapes that\nmake the character recognisable at small size. One full-body character, standing idle on flat ground,\nthree-quarter view turned slightly toward the viewer's right, arms relaxed, feet close together.\nHard edges only: no anti-aliasing, no blur, no gradients, no dithering noise. Dark selective outline,\nsimple 2-3 tone shading lit from the upper left. Keep the face readable: two clear eyes, small mouth.\nTransparent background. If transparency is not possible, use one flat solid #00FF00 green with nothing else.\nNo ground shadow, no floor, no text, no frame, no border, no second character.\nPortrait canvas 2160 x 3840."
+ },
+ "cleaned": {
+  "file": "sprites/laevateinn/laevateinn_base_still_4k.png",
+  "sha1": "29ac0bc7bd0b",
+  "tool": "polos0117.github.io dot.html (rust/dot-core — book-atelier 파이썬 도구와 같은 셈)",
+  "args": [
+   "24",
+   "--pitch",
+   "10,24",
+   "--outline",
+   "--cell",
+   "192x256"
+  ],
+  "pitch": [
+   16,
+   16
+  ],
+  "offset": [
+   14.75,
+   15.5
+  ],
+  "sprite": [
+   125,
+   232
+  ],
+  "cell": [
+   192,
+   256
+  ],
+  "cell_offset": [
+   33,
+   22
+  ],
+  "foot_y": 254,
+  "colours": 24,
+  "palette": [
+   "#301c1a",
+   "#452925",
+   "#572721",
+   "#6e2d24",
+   "#7d4e31",
+   "#8a3626",
+   "#955b49",
+   "#96613d",
+   "#a33f2a",
+   "#ad754a",
+   "#b77860",
+   "#c04e2e",
+   "#c48c5d",
+   "#c98e75",
+   "#d96132",
+   "#d9a779",
+   "#dea767",
+   "#e0aa90",
+   "#eb7839",
+   "#ebc395",
+   "#efc9af",
+   "#f59043",
+   "#faaf53",
+   "#fcc953"
+  ]
+ },
+ "canvas": "2160x3840",
+ "cell": [
+  192,
+  256
+ ],
+ "flip": {
+  "allowed": true
+ },
+ "references": {
+  "canonical": "img/레바테인_game_keyart_f.webp",
+  "sample_x6": "sprites/alice/alice_begin_still_4k.png 를 최근접 6배 — 다른 인물, 화소 크기·윤곽·비율 본보기"
+ },
+ "why": "사용자 \"삼국지는 빼고 공방별로 2개씩 더 만들어줘\"(2026-10-28) — 이 공방 그림 중 내가 고른 한 장. book 의 4K 와 같은 길(2160×3840 · 원본 격자 그대로 · 칸 192×256 · dot 0.5), 본보기는 book 앨리스 4K 정지 6배"
+}

@@ -1,0 +1,169 @@
+{
+ "date": "2026-10-28",
+ "author": "claude",
+ "atelier": "myth",
+ "id": "mjolnir",
+ "form": "base",
+ "state": "idle",
+ "plan": "polos0117.github.io dot.html — 공용 도트 공방",
+ "generation": {
+  "file": "sprites/mjolnir/raw/mjolnir_base_idle_gen1.png",
+  "sha256": "c809214ece794d4697c980f2e4da2c7e66957bef4049de67f79bd2c139161f73",
+  "by": "gpt",
+  "received_as": "mjolnir_base_idle_gen1.png",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "size": "2160x3840",
+  "usage": {
+   "input_tokens": 3458,
+   "input_tokens_details": {
+    "image_tokens": 2988,
+    "text_tokens": 470
+   },
+   "output_tokens": 865,
+   "output_tokens_details": {
+    "image_tokens": 865,
+    "text_tokens": 0
+   },
+   "total_tokens": 4323
+  },
+  "seconds": 31.4,
+  "attachments": [
+   "still_x6",
+   "canonical"
+  ],
+  "prompt": "Pixel art sprite sheet of the EXACT same character as attached image 1 — a finished pixel-art sprite.\nCopy it pixel for pixel in style: same very large chunky pixels, same 16-colour palette, same dark outline,\nsame proportions (about 4 heads tall), same face. Long pale-blonde hair in two thick braids, a dark iron circlet, a grey fur-trimmed cloak over black and silver knotwork armour, a rune-etched iron breastplate and plated armour skirt, heavy black boots with silver trim, a short-hafted dark iron hammer with a rune-etched head held at the image-right side, faint lightning-white glow.\nKeep decoration as simple as image 1 — do not add new details. Image 2 is only a colour and face reference; do not copy its painterly style.\n\nSheet layout: portrait canvas 2160 x 3840, 4 frames in a 2 x 2 grid (cell 1080 x 1920), read left to right, top to bottom.\nIn every cell the character is the same size (about 125 pixels tall on the sprite's own pixel grid, each sprite pixel\ndrawn as a crisp 13 x 13 square), centred horizontally, with both feet on the same baseline near the bottom of the cell.\nEvery frame faces the same direction as described below. Hard edges only: no anti-aliasing, no blur, no gradients, no dithering noise.\nTransparent background. No grid lines, no cell borders, no numbers, no labels, no text, no ground, no shadow, no motion lines, no extra characters.\n\nIDLE animation, 4 frames. Same standing pose as image 1, three-quarter view turned slightly toward the viewer's right, arms relaxed.\nChanges between frames are tiny (1-2 sprite pixels): frame 1 = exactly image 1; frame 2 = slight breath in, shoulders and hair 1 pixel up;\nframe 3 = same as frame 2 but eyes closed (blink); frame 4 = back between frame 2 and frame 1.\nFeet never move. The loop 4 -> 1 must be seamless."
+ },
+ "cleaned": {
+  "file": "sprites/mjolnir/mjolnir_base_idle_4k.png",
+  "sha1": "fd996d03b3de",
+  "tool": "polos0117.github.io dot.html (rust/dot-core — book-atelier 파이썬 도구와 같은 셈)",
+  "args": [
+   "--frames",
+   "4",
+   "--grid",
+   "2x2",
+   "--palette",
+   "sprites/mjolnir/mjolnir_base_still_4k.png",
+   "--rows",
+   "221",
+   "--speck",
+   "150",
+   "--cell",
+   "192x256"
+  ],
+  "cell": [
+   192,
+   256
+  ],
+  "frames": 4,
+  "foot_y": 254,
+  "colours": 24,
+  "frame": [
+   {
+    "box_px": [
+     56,
+     73,
+     917,
+     1857
+    ],
+    "pitch": 8.06,
+    "size": [
+     106,
+     219
+    ],
+    "anchor_x": 60.18,
+    "dropped_specks": 0,
+    "at": [
+     36,
+     35
+    ]
+   },
+   {
+    "box_px": [
+     917,
+     73,
+     2160,
+     1857
+    ],
+    "pitch": 8.06,
+    "size": [
+     153,
+     221
+    ],
+    "anchor_x": 82.25,
+    "dropped_specks": 0,
+    "at": [
+     14,
+     33
+    ]
+   },
+   {
+    "box_px": [
+     56,
+     1993,
+     913,
+     3779
+    ],
+    "pitch": 8.06,
+    "size": [
+     107,
+     222
+    ],
+    "anchor_x": 61.2,
+    "dropped_specks": 0,
+    "at": [
+     35,
+     32
+    ]
+   },
+   {
+    "box_px": [
+     913,
+     1993,
+     2160,
+     3779
+    ],
+    "pitch": 8.06,
+    "size": [
+     154,
+     221
+    ],
+    "anchor_x": 83.75,
+    "dropped_specks": 0,
+    "at": [
+     12,
+     33
+    ]
+   }
+  ]
+ },
+ "playback": {
+  "order": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "ms": [
+   700,
+   220,
+   140,
+   220
+  ]
+ },
+ "canvas": "2160x3840",
+ "cell": [
+  192,
+  256
+ ],
+ "flip": {
+  "allowed": true
+ },
+ "references": {
+  "canonical": "img/묠니르_game_keyart_f.webp",
+  "still_x6": "sprites/mjolnir/mjolnir_base_still_4k.png (최근접 6배)"
+ },
+ "why": "사용자 \"삼국지는 빼고 공방별로 2개씩 더 만들어줘\"(2026-10-28) — 이 공방 그림 중 내가 고른 한 장. book 의 4K 와 같은 길(2160×3840 · 원본 격자 그대로 · 칸 192×256 · dot 0.5), 본보기는 book 앨리스 4K 정지 6배",
+ "touched": "대기 2·4칸(0부터 1·3)에 몸과 떨어져 떠 있던 둘째 망치를 지웠다 — 칸마다 가장 큰 덩어리만 남김(2026-10-28, 정리 뒤 손보기)"
+}

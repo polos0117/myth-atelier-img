@@ -4,7 +4,7 @@
   {
    "key": "쌍둥이의_공놀이_허리띠",
    "execution": "myth-twins-belt-18d6",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T23:18:49.587Z",
    "date_kst": "2026-11-03",
    "date_utc": "2026-11-02",
@@ -17,7 +17,9 @@
     "쌍둥이의_공놀이_허리띠_game_keyart_f_casual3.webp",
     "쌍둥이의_공놀이_허리띠_game_keyart_f_casual4.webp",
     "쌍둥이의_공놀이_허리띠_game_keyart_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T23:34:47.297Z",
+   "done_by": "myth-twins-belt-18d6"
   }
  ]
 }

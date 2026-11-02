@@ -1,0 +1,23 @@
+{
+ "key": "테세우스의_검",
+ "runs": [
+  {
+   "key": "테세우스의_검",
+   "execution": "myth-theseus-2a0dc0fdbe4d",
+   "status": "working",
+   "claimed_at": "2026-11-02T09:09:37.919Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "테세우스의_검_game_keyart_f.webp",
+    "테세우스의_검_game_keyart_f_awaken.webp",
+    "테세우스의_검_game_keyart_f_cursed.webp",
+    "테세우스의_검_game_keyart_f_casual1.webp",
+    "테세우스의_검_game_keyart_f_casual2.webp",
+    "테세우스의_검_game_keyart_f_casual3.webp",
+    "테세우스의_검_game_keyart_f_casual4.webp",
+    "테세우스의_검_game_keyart_f_casual5.webp"
+   ]
+  }
+ ]
+}

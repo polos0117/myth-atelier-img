@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "벨",
+  "slot": "casual3",
+  "style": "game_keyart",
+  "file": "벨_game_keyart_f_casual3.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "718741ff206f8d04bcee1b24ef7d6c0ab4d707d5d2a4814045117f102773d162",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "벨_game_keyart_f.webp",
+  "prompt": "records/벨/casual3-ui.json",
+  "prompt_sha256": "e842b3df5e5f7fa588e071cf09fda07dc99434b08f340210370cf5975fd6ca6f",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-vel-60e783",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "718741ff206f8d04bcee1b24ef7d6c0ab4d707d5d2a4814045117f102773d162",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 읽히는 글자·로고 없음.",
+      "같은 인물, 양궁장 벽에 기대 팔짱. 손은 팔 아래 가려져 있으나 두 팔 연결은 일관됨. 갑옷·무기 없음.",
+      "고양이 귀·리본 초커·프릴 의상은 보이나 현대 메이드 의상으로 남아 상감시대 변환 미흡. 흉상보다 넓은 크롭."
+    ],
+    "cause": "ERA의 시대 변환과 명시된 현대 역할극 의상이 충돌. CROP보다 팔짱과 의상 표현이 우세."
+  },
+  "acceptance": "user_approval_2026-11-01 — AI 검수의 어긋남도 기록하여 올리고 사용자가 올라간 뒤 본다"
+}

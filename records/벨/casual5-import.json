@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "벨",
+  "slot": "casual5",
+  "style": "game_keyart",
+  "file": "벨_game_keyart_f_casual5.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "e1875c9f60a5b38d655db78366fa7be836d9ce60b0dbd1f3bed24594a5e58bc1",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "벨_game_keyart_f.webp",
+  "prompt": "records/벨/casual5-ui.json",
+  "prompt_sha256": "9b222f615325f0cd53c67c33160fee12354a2e36b278a934ad7212d1921d3897",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-vel-60e783",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e1875c9f60a5b38d655db78366fa7be836d9ce60b0dbd1f3bed24594a5e58bc1",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 읽히는 글자·로고 없음.",
+      "같은 금발·녹안 성인, 서커스 배경, 켄테 직물 의상, 한 손 머리 넘김·다른 손 프레임 밖. 갑옷·무기 없음.",
+      "완전 옆모습보다 3/4 얼굴, 쇄골보다 아래 가슴까지 보여 요청 close-up보다 넓음."
+    ],
+    "cause": "CROP/COMPOSITION의 엄격한 옆모습·쇄골 크롭보다 참조 얼굴과 의상 가시성이 우세."
+  },
+  "acceptance": "user_approval_2026-11-01 — AI 검수의 어긋남도 기록하여 올리고 사용자가 올라간 뒤 본다"
+}

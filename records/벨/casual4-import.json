@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "벨",
+  "slot": "casual4",
+  "style": "game_keyart",
+  "file": "벨_game_keyart_f_casual4.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "62e878ba250d6babb24fb6714a3ad56956af6cb45a71d040368c1385a8970945",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "벨_game_keyart_f.webp",
+  "prompt": "records/벨/casual4-ui.json",
+  "prompt_sha256": "616f27aad20db0c1fbe88c811a4a9cd85949b2824f2ec2395b61bf211b986e77",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-vel-60e783",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "62e878ba250d6babb24fb6714a3ad56956af6cb45a71d040368c1385a8970945",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 읽히는 글자·로고 없음.",
+      "같은 인물, 슬립 드레스와 짧은 카디건, 오른손 물병·왼팔 내림. 두 팔이 자연스럽게 연결된 뒤 3/4 장면. 무기는 손에 없고 패딩 수련봉이 거치되어 있음.",
+      "왼쪽 어깨 대신 오른쪽 어깨로 돌아봄. 배경과 장신구가 지금 현실보다 신화풍으로 남음."
+    ],
+    "cause": "COMPOSITION의 지정된 왼쪽 어깨보다 물병 든 오른손 방향을 따름. 현대 장소에 참조 배경 양식이 남음."
+  },
+  "acceptance": "user_approval_2026-11-01 — AI 검수의 어긋남도 기록하여 올리고 사용자가 올라간 뒤 본다"
+}

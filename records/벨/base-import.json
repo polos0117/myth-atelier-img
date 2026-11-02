@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "벨",
+  "slot": "base",
+  "style": "game_keyart",
+  "file": "벨_game_keyart_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "878bd34265582e901526a45da05cbfd36eb75270fe3c694c8b5ac781d59059d6",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": null,
+  "prompt": "records/벨/base-ui.json",
+  "prompt_sha256": "65f1998dfa10000844c71ce9ddb709638b3696ac23be273d2f02ccfe0d351ede",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-vel-60e783",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "878bd34265582e901526a45da05cbfd36eb75270fe3c694c8b5ac781d59059d6",
+    "passed": true,
+    "observations": [
+      "원본 1024×1536, 읽히는 글자·로고 없음.",
+      "성인 여성 한 명, 금발·녹안, 두 팔과 두 다리의 연결이 자연스럽고 빈 두 손 및 두 발이 프레임 안에 보임. 손가락 일부는 구부림으로 겹침.",
+      "금빛 잎 모양 장갑, 공작 깃과 수탉 문양, 여러 얼굴 모양의 금속 관 장식. 별도 창·문자·로고 없음. 메카 관절보다 장식 갑옷의 인상이 강함."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-11-01 — AI 검수의 어긋남도 기록하여 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "벨",
+  "slot": "awaken",
+  "style": "game_keyart",
+  "file": "벨_game_keyart_f_awaken.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "73b340f695c1629a3c7c5ee4ba4d616d12272d3d7fb23254fef02138bca63408",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "벨_game_keyart_f.webp",
+  "prompt": "records/벨/awaken-ui.json",
+  "prompt_sha256": "cec518b33c119cee5b92df002552b4a3e425cca9577ec0b75d589daac0e5b7ae",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.884732
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-vel-60e783",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "73b340f695c1629a3c7c5ee4ba4d616d12272d3d7fb23254fef02138bca63408",
+    "passed": true,
+    "observations": [
+      "원본 1024×1536, 읽히는 글자·로고 없음.",
+      "기본과 동일한 얼굴·장갑·빈 두 손·다리 배치. 금빛 광휘와 장식 발광만 강화.",
+      "떠 있는 효과는 가는 광선과 깃 모양이며 별도 무기나 새 인물이 아님."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-11-01 — AI 검수의 어긋남도 기록하여 올리고 사용자가 올라간 뒤 본다"
+}

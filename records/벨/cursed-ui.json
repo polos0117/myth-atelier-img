@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "card": "벨",
+ "mode": "cursed",
+ "slot": "cursed",
+ "style": "game_keyart",
+ "file": "벨_game_keyart_f_cursed.webp",
+ "record": "records/벨/cursed-ui.json",
+ "at": "2026-11-02T13:08:39.981Z",
+ "storage": {
+  "__card": "벨",
+  "__myth": "india",
+  "벨": {
+   "style": "game_keyart",
+   "output": "cursed",
+   "action": "",
+   "casualIndex": 1,
+   "scene": "",
+   "params": {},
+   "design": "mecha",
+   "extras": {
+    "embodiment": false,
+    "silhouette": false,
+    "myth": false
+   },
+   "skin": "",
+   "skinState": "base",
+   "casual": {
+    "treeV": 2,
+    "era": "now",
+    "place": "",
+    "ofam": "",
+    "item": "",
+    "expr": "",
+    "outfit": "",
+    "scene": "",
+    "custom": "",
+    "preset": "",
+    "axes": {},
+    "locks": {}
+   }
+  }
+ },
+ "prompt": "WEAPON: Vel (벨), the spear of India myth, wielded in legend by 무루간. Legend: 어머니 파르바티가 전쟁의 신 무루간에게 준 창. 망고나무로 변한 악마 수라파드마를 둘로 갈라 공작과 수탉이 되게 했다.\n\nWEAPON LOOK (materials and colors; shape; motifs): leaf-shaped spear head of polished gold on a long staff, temple gold, peacock blue and vermilion; tall and leaf-bladed; peacock feathers, a rooster banner and six faces.\n\nSTYLE: Polished 2.5D game key art with clean linework, controlled anime facial design, layered cel-to-soft shading and crisp costume and weapon detail. Use a vivid, readable silhouette and campaign-quality lighting.\n\nOUTPUT: the CURSED state of the attached action image — not her power opened, but the weapon’s own legend turned against her: its price, its obsession, its tragedy. Keep the attached image’s camera, pose, framing, subject scale, face, hair and the base armor exactly; the silver plates stay silver. Change only this: her rune and glow lines are corrupted from their clean color to a sick red-violet that flickers, the engravings crack and bleed light along the seams, any feathers, cloth or halo elements split, fray or break, her eyes take the same corrupted light and her expression hardens or empties. The pair must read as the same picture before and after the curse takes hold.\n\nONE FIGURE ONLY. No second character, no creature, no text, no lettering on banners or walls, no logo, no watermark, no speech bubble, no frame border.\n\nHANDS: as in the attached image — ordinary human hands holding nothing. The weapon stays in her armor and design, never a separate object in her hands, beside her or floating near her.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame."
+}

@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "벨",
+  "slot": "cursed",
+  "style": "game_keyart",
+  "file": "벨_game_keyart_f_cursed.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "a9bd9e1ee63d1c7f6849994affcebf66d7ca5dfb4c8f8c26074b9e280143d774",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "벨_game_keyart_f.webp",
+  "prompt": "records/벨/cursed-ui.json",
+  "prompt_sha256": "a57ab64619b0471d9de2e4b23e0652e9f03c8e45243f7125975c0b26cace3816",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.725066
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-vel-60e783",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "a9bd9e1ee63d1c7f6849994affcebf66d7ca5dfb4c8f8c26074b9e280143d774",
+    "passed": true,
+    "observations": [
+      "원본 1024×1536, 읽히는 글자·로고 없음.",
+      "기본의 얼굴·구도·장갑 구조를 유지. 붉은 자주빛 눈과 오염광, 해진 천과 갈라진 깃 장식.",
+      "두 팔·두 다리·빈 두 손 유지. 별도 창·문자 없음."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-11-01 — AI 검수의 어긋남도 기록하여 올리고 사용자가 올라간 뒤 본다"
+}

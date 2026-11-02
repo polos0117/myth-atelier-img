@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "벨",
+  "slot": "casual1",
+  "style": "game_keyart",
+  "file": "벨_game_keyart_f_casual1.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "1d3ceb1c7c6917d9a3df6f4ca9ee2cad15af4e8d552dfc235918828cfedd300d",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "벨_game_keyart_f.webp",
+  "prompt": "records/벨/casual1-ui.json",
+  "prompt_sha256": "416d3f4d1ec6c4dc3b5ed44eda20ff592259ce071b766bb2c45283556b2e81dd",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-vel-60e783",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "1d3ceb1c7c6917d9a3df6f4ca9ee2cad15af4e8d552dfc235918828cfedd300d",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 읽히는 글자·로고 없음.",
+      "동일 금발·녹안 성인 여성, 폭포 웅덩이, 오른손 머리 넘김·왼손 수면 접촉. 갑옷·무기 없음.",
+      "수면이 가슴 대신 허리에 위치하고 의상 중앙에 기본컷과 유사한 금빛 보석 장식이 남음."
+    ],
+    "cause": "POSTURE/SUPPORT의 chest-deep 지시가 waist-up 구도와 함께 충분히 적용되지 않음. WARDROBE의 장식 제거보다 참조 장식이 일부 우세."
+  },
+  "acceptance": "user_approval_2026-11-01 — AI 검수의 어긋남도 기록하여 올리고 사용자가 올라간 뒤 본다"
+}

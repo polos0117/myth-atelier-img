@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "벨",
+  "slot": "casual2",
+  "style": "game_keyart",
+  "file": "벨_game_keyart_f_casual2.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "3762a4e381ef521021a54fb100e8d3d49dcddd176bc681b471ec1958c457e98c",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "벨_game_keyart_f.webp",
+  "prompt": "records/벨/casual2-ui.json",
+  "prompt_sha256": "8807c0faa08ed84bcd5eaf5dcd6af7913ab3c9399f5d440759ebbed792afc92b",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-vel-60e783",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "3762a4e381ef521021a54fb100e8d3d49dcddd176bc681b471ec1958c457e98c",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 읽히는 글자·로고 없음.",
+      "같은 인물, 신화 장터에서 흰 스포츠 브라·레깅스·오른손 등불. 전신과 두 팔·두 손·두 발 보임. 갑옷·무기 없음.",
+      "요구한 3/4 방향보다 정면에 가깝고 이를 악문 determined 표정이 약함."
+    ],
+    "cause": "COMPOSITION/EXPRESSION의 지정 강도가 참조 정면 얼굴과 보행 표현보다 약하게 적용됨."
+  },
+  "acceptance": "user_approval_2026-11-01 — AI 검수의 어긋남도 기록하여 올리고 사용자가 올라간 뒤 본다"
+}

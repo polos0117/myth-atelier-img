@@ -1,0 +1,23 @@
+{
+ "key": "막_언_루인",
+ "runs": [
+  {
+   "key": "막_언_루인",
+   "execution": "myth-mac-an-luin-a2b2d4a8cf76",
+   "status": "working",
+   "claimed_at": "2026-11-02T20:59:59.018Z",
+   "date_kst": "2026-11-03",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "막_언_루인_game_keyart_f.webp",
+    "막_언_루인_game_keyart_f_awaken.webp",
+    "막_언_루인_game_keyart_f_cursed.webp",
+    "막_언_루인_game_keyart_f_casual1.webp",
+    "막_언_루인_game_keyart_f_casual2.webp",
+    "막_언_루인_game_keyart_f_casual3.webp",
+    "막_언_루인_game_keyart_f_casual4.webp",
+    "막_언_루인_game_keyart_f_casual5.webp"
+   ]
+  }
+ ]
+}

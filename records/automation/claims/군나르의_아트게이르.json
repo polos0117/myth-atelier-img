@@ -4,7 +4,7 @@
   {
    "key": "군나르의_아트게이르",
    "execution": "myth-gunnar-20261102T0950",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T01:52:45.966Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -17,7 +17,9 @@
     "군나르의_아트게이르_game_keyart_f_casual3.webp",
     "군나르의_아트게이르_game_keyart_f_casual4.webp",
     "군나르의_아트게이르_game_keyart_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T02:08:30.739Z",
+   "done_by": "myth-gunnar-20261102T0950"
   }
  ]
 }

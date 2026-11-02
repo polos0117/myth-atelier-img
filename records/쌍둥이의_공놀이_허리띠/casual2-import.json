@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "쌍둥이의 공놀이 허리띠",
+  "slot": "casual2",
+  "style": "game_keyart",
+  "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_casual2.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (built-in)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8a9c2c1606659bbdeaa05ab11160610b6ef86fd97b9dd1b63617b1aa6374e75f",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "쌍둥이의_공놀이_허리띠_game_keyart_f.webp",
+  "prompt": "records/쌍둥이의_공놀이_허리띠/casual2-ui.json",
+  "prompt_sha256": "2ded0b357af6c4c0c03a00378b016c9d23dc0cc2c10579183256c26f9fe00c90",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-03",
+  "execution": "myth-twins-belt-18d6",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8a9c2c1606659bbdeaa05ab11160610b6ef86fd97b9dd1b63617b1aa6374e75f",
+    "passed": false,
+    "observations": [
+      "1024×1536, 인물 한 명, 읽히는 글자·로고 없음.",
+      "신화 테라스, 허리까지 내린 웻슈트와 비키니 상의, 양손 망원경, 전신과 주변 풍경.",
+      "두 팔·두 손·두 다리와 발의 연결 정상, 갑옷 없음.",
+      "환경 원경 지시보다 인물이 화면을 크게 차지하고 얼굴은 완전한 옆모습보다 약간 정면으로 열림."
+    ],
+    "cause": "COMPOSITION의 environmental long shot·side profile보다 참조 인물 가독성이 우선됨."
+  },
+  "acceptance": "user_approval_2026-11-03 — 요청 범위에서 추가 확인 없이 생성·검수 기록 후 커밋 및 main 일반 반영"
+}

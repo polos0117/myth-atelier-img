@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "쌍둥이의 공놀이 허리띠",
+  "slot": "cursed",
+  "style": "game_keyart",
+  "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_cursed.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (built-in)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "ae64f251469c5bde11f10f2cb6e49de4400c2f95a560c4c62c499b0c06073c28",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "쌍둥이의_공놀이_허리띠_game_keyart_f.webp",
+  "prompt": "records/쌍둥이의_공놀이_허리띠/cursed-ui.json",
+  "prompt_sha256": "92a6d02bd1ee0ffa98f7a4e3b41c2ef27eb2a2e972177c7653dc6e7416a3f42c",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.9311109598905447
+  },
+  "imported": "2026-11-03",
+  "execution": "myth-twins-belt-18d6",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "ae64f251469c5bde11f10f2cb6e49de4400c2f95a560c4c62c499b0c06073c28",
+    "passed": true,
+    "observations": [
+      "1024×1536, 인물 한 명, 읽히는 글자·로고 없음.",
+      "기본과 동일한 인물·자세·배경·장갑 구조. 적자색 오염광·균열과 해진 깃털·천.",
+      "신체 절단 없이 전승의 어두운 면을 균열과 오염으로 표현. 손과 팔다리 연결 유지."
+    ],
+    "cause": null
+  },
+  "acceptance": "user_approval_2026-11-03 — 요청 범위에서 추가 확인 없이 생성·검수 기록 후 커밋 및 main 일반 반영"
+}

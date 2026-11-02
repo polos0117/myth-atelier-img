@@ -1,0 +1,65 @@
+{
+ "version": 1,
+ "card": "쌍둥이의 공놀이 허리띠",
+ "mode": "casual",
+ "slot": "casual1",
+ "style": "game_keyart",
+ "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_casual1.webp",
+ "record": "records/쌍둥이의_공놀이_허리띠/casual1-ui.json",
+ "at": "2026-11-02T23:19:00.637Z",
+ "storage": {
+  "__card": "쌍둥이의 공놀이 허리띠",
+  "__myth": "america",
+  "쌍둥이의 공놀이 허리띠": {
+   "style": "game_keyart",
+   "output": "casual",
+   "action": "",
+   "casualIndex": 1,
+   "scene": "",
+   "params": {},
+   "design": "mecha",
+   "extras": {
+    "embodiment": false,
+    "silhouette": false,
+    "myth": false
+   },
+   "skin": "",
+   "skinState": "base",
+   "casual": {
+    "treeV": 2,
+    "era": "now",
+    "place": "work_kitchen",
+    "ofam": "lingerie",
+    "item": "corset_lingerie",
+    "expr": "provocative",
+    "outfit": "",
+    "scene": "",
+    "custom": "",
+    "preset": "counter_cup",
+    "use": "phone_look",
+    "kind": "hold",
+    "posture": "lean_rail",
+    "support": "none",
+    "frame": "waist_up",
+    "body": "side",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "prop",
+    "left": "rail",
+    "legs": "",
+    "gaze": "at_prop",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold",
+     "weapon_influence": "subtle",
+     "separates_preference": "strongly prefer separates"
+    },
+    "locks": {
+     "axes.overall_intensity": true,
+     "axes.skin_exposure": true
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: Ballgame Yoke of the Hero Twins (쌍둥이의 공놀이 허리띠) personified — the same woman as the attached image. She is the human form of the armor of Americas myth.\n\nSTYLE: Polished 2.5D game key art with clean linework, controlled anime facial design, layered cel-to-soft shading and crisp costume and weapon detail. Use a vivid, readable silhouette and campaign-quality lighting.\n\nIMAGE-GUIDED CONTINUATION. Use the attached approved image of this character as the identity input. Preserve face geometry, age, ethnicity, eye shape and colors, skin tone, hair color and cut, height and body proportions; expression and natural hair motion may change, not facial structure or haircut. Render her in the selected style rather than copying the attached image’s rendering.\n\nOUTPUT: one standalone off-duty scene of the same woman as the attached image, in the outfit chosen in SCENE. Everything else follows SCENE (chosen).\n\nShow one woman in a coherent everyday, fashion or other requested scene. Ordinary clothing is the default; her mecha armor never appears in a casual scene. Her weapon shows only as a small accessory or an object in the scene — never in the outfit’s colours, patterns or cut, and never as an object she holds. Never require cosplay of the weapon.\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose it for this frame, not the attached card art’s framing; COMPOSITION in SCENE sets how much of her shows and the selected rendering style controls lighting and surfaces.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nSCENE (chosen):\nPlace: a restaurant kitchen pass under bright lights\nOutfit: a corset-inspired bodice with visible boning seams and a matching high-waisted piece\nPOSTURE: standing at a waist-high railing or sill, leaning lightly on it.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand rests on the railing.\nPROP: with her own right hand she holds a smartphone at chest height, screen toward her; it is all she holds.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: challenging eyes under lowered lids, one brow raised, mouth corner tugged in a slight smirk.\noverall intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest\nweapon influence: subtle — one small weapon-themed accessory, never in the clothing\nseparates preference: strongly prefer separates — use separate top and bottom by default; explicit outfit takes priority\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its armor, plates, glowing lines, ornaments or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image’s palette, patterns or trim into the outfit; her weapon belongs in accessories and props, never in the clothes.\n\nClothing remains clothing: distinguish fabric from exposed skin through garment edges, seams, drape and material-appropriate folds. Preserve the requested fabric and finish, including satin, leather or other explicitly chosen materials; do not force everything matte. Exposed skin is living skin with soft anatomical shading, no panel seams or metallic reflections. Do not turn garments into rigid shells or introduce mechanical parts.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer’s.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nOne face and one coherent body. No childlike age regression, no identity replacement, no collage, no captions, no logos, no watermarks. Keep facial identity and anatomy independent of rendering stylization and outfit volume.\n\nBefore finishing, verify one woman, the same identity as the attached image, a casual scene with no armor and no weapon in hand, coherent anatomy and the selected rendering style.\n\nONE FIGURE ONLY. No second character, no creature, no text, no lettering on banners or walls, no logo, no watermark, no speech bubble, no frame border."
+}

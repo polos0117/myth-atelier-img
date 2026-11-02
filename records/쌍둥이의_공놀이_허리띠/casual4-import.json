@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "쌍둥이의 공놀이 허리띠",
+  "slot": "casual4",
+  "style": "game_keyart",
+  "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_casual4.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (built-in)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "b098998fa8433adefe3a3e85ee5950c95ba9c36d71c7c08e304e6d0a6e5d04c1",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "쌍둥이의_공놀이_허리띠_game_keyart_f.webp",
+  "prompt": "records/쌍둥이의_공놀이_허리띠/casual4-ui.json",
+  "prompt_sha256": "c511a730cb5cbc2e3852602243000d6fc2688418ec052ba0877aa398d26d52da",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-03",
+  "execution": "myth-twins-belt-18d6",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b098998fa8433adefe3a3e85ee5950c95ba9c36d71c7c08e304e6d0a6e5d04c1",
+    "passed": false,
+    "observations": [
+      "1024×1536, 인물 한 명, 읽히는 글자·로고 없음.",
+      "버건디 벨리댄스 상하의, 등 3/4, 오른손 카메라와 내려진 왼손. 두 팔 연결 정상.",
+      "계획의 역·승강장 대신 신화 유적 회랑으로 나옴. 머리 회전은 자기 왼쪽 어깨보다 오른쪽 어깨 방향으로 읽힘.",
+      "카메라는 손잡이에 연결되고 추가 팔다리 없음."
+    ],
+    "cause": "SCENE의 현대 역 장소와 신화의 옛 땅 시대 선택이 충돌해 참조 유적 배경이 우세. COMPOSITION의 자기 왼쪽 어깨 지시도 반대로 해석됨."
+  },
+  "acceptance": "user_approval_2026-11-03 — 요청 범위에서 추가 확인 없이 생성·검수 기록 후 커밋 및 main 일반 반영"
+}

@@ -1,0 +1,64 @@
+{
+ "version": 1,
+ "card": "관창의 창",
+ "mode": "casual",
+ "slot": "casual4",
+ "style": "game_keyart",
+ "file": "관창의_창_game_keyart_f_casual4.webp",
+ "record": "records/관창의_창/casual4-ui.json",
+ "at": "2026-11-02T00:35:03.528Z",
+ "storage": {
+  "__card": "관창의 창",
+  "__myth": "korea",
+  "관창의 창": {
+   "style": "game_keyart",
+   "output": "casual",
+   "action": "",
+   "casualIndex": 4,
+   "scene": "",
+   "params": {},
+   "design": "mecha",
+   "extras": {
+    "embodiment": false,
+    "silhouette": false,
+    "myth": false
+   },
+   "skin": "",
+   "skinState": "base",
+   "casual": {
+    "treeV": 2,
+    "era": "heritage",
+    "place": "spa_sauna",
+    "ofam": "roleplay",
+    "item": "lab_roleplay",
+    "expr": "sensual",
+    "outfit": "",
+    "scene": "",
+    "custom": "",
+    "preset": "hip_contra",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "three_quarter",
+    "body": "front_3q",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "hip",
+    "left": "hair_tuck",
+    "legs": "contrapposto",
+    "gaze": "camera",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold",
+     "weapon_influence": "strong",
+     "separates_preference": "prefer separates"
+    },
+    "locks": {
+     "axes.overall_intensity": true,
+     "axes.skin_exposure": true
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: Spear of Gwanchang (관창의 창) personified — the same woman as the attached image. She is the human form of the spear of Korea myth.\n\nSTYLE: Polished 2.5D game key art with clean linework, controlled anime facial design, layered cel-to-soft shading and crisp costume and weapon detail. Use a vivid, readable silhouette and campaign-quality lighting.\n\nIMAGE-GUIDED CONTINUATION. Use the attached approved image of this character as the identity input. Preserve face geometry, age, ethnicity, eye shape and colors, skin tone, hair color and cut, height and body proportions; expression and natural hair motion may change, not facial structure or haircut. Render her in the selected style rather than copying the attached image’s rendering.\n\nOUTPUT: one standalone off-duty scene of the same woman as the attached image, in the outfit chosen in SCENE. Everything else follows SCENE (chosen).\n\nShow one woman in a coherent everyday, fashion or other requested scene. Ordinary clothing is the default; her mecha armor never appears in a casual scene. Her weapon shows only as a small accessory or an object in the scene — never in the outfit’s colours, patterns or cut, and never as an object she holds. Never require cosplay of the weapon.\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose it for this frame, not the attached card art’s framing; COMPOSITION in SCENE sets how much of her shows and the selected rendering style controls lighting and surfaces.\n\nERA: set this scene in the ancient lands her myth comes from — the Korea world in the age of its myths. Re-imagine the chosen place, activity and outfit as they would exist there, keeping two or three recognisable parts of the chosen outfit; a job that did not exist then becomes its closest period counterpart. Period clothing only, not her armor; no modern objects.\n\nSCENE (chosen):\nPlace: a wooden sauna and cold plunge with a cooling lounge\nOutfit: a laboratory-themed costume with a crisp white coat over a fitted dress\nPOSTURE: standing.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand rests on her hip.\nLEFT HAND: her own left hand tucks hair behind her ear.\nLEGS: weight on one leg, the other knee softly bent.\nGAZE: she looks into the camera.\nEXPRESSION: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth.\noverall intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nweapon influence: strong — clearly recognizable weapon motifs in accessories, props and objects around her, never in the clothing's colours, patterns or cut\nseparates preference: prefer separates — prefer separate top and bottom unless outfit is explicitly specified\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its armor, plates, glowing lines, ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image’s palette, patterns or trim into the outfit; her weapon belongs in accessories and props, never in the clothes.\n\nClothing remains clothing: distinguish fabric from exposed skin through garment edges, seams, drape and material-appropriate folds. Preserve the requested fabric and finish, including satin, leather or other explicitly chosen materials; do not force everything matte. Exposed skin is living skin with soft anatomical shading, no panel seams or metallic reflections. Do not turn garments into rigid shells or introduce mechanical parts.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer’s.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nOne face and one coherent body. No childlike age regression, no identity replacement, no collage, no captions, no logos, no watermarks. Keep facial identity and anatomy independent of rendering stylization and outfit volume.\n\nBefore finishing, verify one woman, the same identity as the attached image, a casual scene with no armor and no weapon in hand, coherent anatomy and the selected rendering style.\n\nONE FIGURE ONLY. No second character, no creature, no text, no lettering on banners or walls, no logo, no watermark, no speech bubble, no frame border."
+}

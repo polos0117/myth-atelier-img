@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "니혼고",
+  "slot": "casual2",
+  "style": "game_keyart",
+  "file": "니혼고_game_keyart_f_casual2.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8fdcb5ef3dc81faa462f580ceefb27523ff73a0ecc66ba0c05222d6bdfe2f9c8",
+    "note": "원본 PNG는 올리지 않음 — sha256만 보존"
+  },
+  "reference": "니혼고_game_keyart_f.webp",
+  "prompt": "records/니혼고/casual2-ui.json",
+  "prompt_sha256": "c9871c4328bc28c406b721c048a5d3922e95dd523152630be7284aa90bfaa5a8",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-nihongo-ab84425f4a21",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8fdcb5ef3dc81faa462f580ceefb27523ff73a0ecc66ba0c05222d6bdfe2f9c8",
+    "passed": false,
+    "observations": [
+      "1024×1536 확인",
+      "재계획 후 생성: 유적의 황금 시간대, 울 코트와 니트 머플러, 옆얼굴과 아래 시선, 귀 뒤로 머리를 넘기는 손",
+      "동일 인물, 읽히는 글자·갑옷·손에 든 무기 없음",
+      "계획은 쇄골에서 끝나는 클로즈업이나 실제는 가슴까지 보여 약간 넓음"
+    ],
+    "cause": "CROP의 쇄골 지점보다 코트·머플러를 더 보여준 결과"
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 변경을 검수 기록과 함께 반영"
+}

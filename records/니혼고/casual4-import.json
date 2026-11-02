@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "니혼고",
+  "slot": "casual4",
+  "style": "game_keyart",
+  "file": "니혼고_game_keyart_f_casual4.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "cceb44229a039084cfc19af8bd3d27f531800377e2103e88820b4261f076d5d4",
+    "note": "원본 PNG는 올리지 않음 — sha256만 보존"
+  },
+  "reference": "니혼고_game_keyart_f.webp",
+  "prompt": "records/니혼고/casual4-ui.json",
+  "prompt_sha256": "aa6b6d070b8ca6df6693d40eb9d88df238fd215430252ca887a5a7affd80a51d",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-nihongo-ab84425f4a21",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "cceb44229a039084cfc19af8bd3d27f531800377e2103e88820b4261f076d5d4",
+    "passed": false,
+    "observations": [
+      "1024×1536 확인",
+      "같은 얼굴, 가죽 공방·송곳·실·가죽 배경과 시대풍 가운·겉옷",
+      "오른손 카메라 방향으로 뻗고 왼손 쇄골, 팔 연결 자연스러움",
+      "허리 아래 일부까지 보이고 기준 금색 꽃무늬·허리 장식이 의복에 남음"
+    ],
+    "cause": "허리 위 CROP보다 공방 탁자와 의복을 넓게 표시; 참조의 문양·장식 전이"
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 변경을 검수 기록과 함께 반영"
+}

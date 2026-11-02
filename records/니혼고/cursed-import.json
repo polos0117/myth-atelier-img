@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "니혼고",
+  "slot": "cursed",
+  "style": "game_keyart",
+  "file": "니혼고_game_keyart_f_cursed.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "d525004f2b86456d85a143f62744235f3ad96fadd20fd8583ed47a2beb96d4c8",
+    "note": "원본 PNG는 올리지 않음 — sha256만 보존"
+  },
+  "reference": "니혼고_game_keyart_f.webp",
+  "prompt": "records/니혼고/cursed-ui.json",
+  "prompt_sha256": "6ce55df741f5b134bf4768836943e98b32710fb97011f1e2484d376f619bd40c",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.8587547215758419
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-nihongo-ab84425f4a21",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "d525004f2b86456d85a143f62744235f3ad96fadd20fd8583ed47a2beb96d4c8",
+    "passed": true,
+    "observations": [
+      "1024×1536 확인",
+      "기본과 같은 얼굴·구도·전신, 두 손 빈손",
+      "붉은 자주색 균열광과 해진 천, 술잔 문양을 둘러싼 오염이 저주 방향 반영",
+      "검은 옻칠과 금속 구조 유지, 별도 무기·글자 없음"
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 변경을 검수 기록과 함께 반영"
+}

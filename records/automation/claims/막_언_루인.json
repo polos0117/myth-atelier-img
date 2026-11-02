@@ -4,7 +4,7 @@
   {
    "key": "막_언_루인",
    "execution": "myth-mac-an-luin-a2b2d4a8cf76",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T20:59:59.018Z",
    "date_kst": "2026-11-03",
    "date_utc": "2026-11-02",
@@ -17,7 +17,9 @@
     "막_언_루인_game_keyart_f_casual3.webp",
     "막_언_루인_game_keyart_f_casual4.webp",
     "막_언_루인_game_keyart_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T21:13:21.136Z",
+   "done_by": "myth-mac-an-luin-a2b2d4a8cf76"
   }
  ]
 }

@@ -4,7 +4,7 @@
   {
    "key": "베스의_방패",
    "execution": "myth-bes-da7688-20261102",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T13:51:38.966Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -17,7 +17,9 @@
     "베스의_방패_game_keyart_f_casual3.webp",
     "베스의_방패_game_keyart_f_casual4.webp",
     "베스의_방패_game_keyart_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T14:06:18.402Z",
+   "done_by": "myth-bes-da7688-20261102"
   }
  ]
 }

@@ -1,0 +1,27 @@
+{
+ "version": 1,
+ "card": "관창의 창",
+ "note": "사람이 바꿔 달라고 한 그림만 바꾼다. 앞 그림은 git 이력에 있고, 여기에는 sha256 만 남긴다",
+ "replacements": [
+  {
+   "date": "2026-11-02",
+   "requested_by": "user",
+   "reason": "일상4 를 카드의 시대(7세기 신라) ERA 줄로 다시 — 예전 줄은 신화권 단위(the Korea world in the age of its myths)였다. 사용자 「응 4번 다시 그려줘」 · 「응 올려줘」",
+   "files": [
+    {
+     "file": "관창의_창_game_keyart_f_casual4.webp",
+     "slot": "casual4",
+     "previous": {
+      "webp_sha256": "464fd76016775ac773b67a3d89a468cdb2f97d22a4a69c26deb1215dcd552782",
+      "source_sha256": "88f05b099e845f17c349dc20d0a8390d1de552be09197bfb34ac243343c114d6",
+      "imported": "2026-11-02",
+      "prompt_sha256": "9f2a90bde6be5be2e76272e1f6ab2b1f94185a0c30b9f4138f3612635b02001b"
+     },
+     "source_sha256": "64507b3fcc6df33e3ac478c81e85886eb32325ebadb1c10d8e466aa74120106a",
+     "webp_sha256": "ee39167c01e2eb8dc54baf3e9b991d6044706fcc08cc9d8f28df890a335857d3",
+     "prompt_sha256": "c02c3aaa6febdea8de61f13b457b23c644cfe0d5f15494e5cd63e3f064c86cba"
+    }
+   ]
+  }
+ ]
+}

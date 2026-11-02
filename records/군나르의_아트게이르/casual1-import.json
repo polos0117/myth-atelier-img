@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "군나르의 아트게이르",
+ "slot": "casual1",
+ "style": "game_keyart",
+ "file": "군나르의_아트게이르_game_keyart_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "a201c76593038ae428f1cdb8dbb5beea85ce598db610ba779cc120bfeb2de6b9",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "군나르의_아트게이르_game_keyart_f.webp",
+ "prompt": "records/군나르의_아트게이르/casual1-ui.json",
+ "prompt_sha256": "deae0340a7792c914f5a2a9374f4daef22d7b7a77a4d9e3af3504176ab4cdf7f",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-gunnar-20261102T0950",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a201c76593038ae428f1cdb8dbb5beea85ce598db610ba779cc120bfeb2de6b9",
+  "passed": false,
+  "observations": [
+   "1024×1536 원본 확인.",
+   "같은 분홍 머리·붉은 눈·얼굴, 한 성인 여성과 연결된 양손. 갑옷 없이 레이스 브라렛·가디건·쇼츠, 샘 배경.",
+   "두 손을 가슴 앞에서 모으고 카메라를 봄. 무기 모티프는 작은 장신구와 주변 장식.",
+   "waist_up 대신 쇼츠와 허벅지 상부까지 보임. 가디건이 어깨 아래로 내려감."
+  ],
+  "cause": "CROP waist-up 지시보다 Outfit의 shorts가 프레이밍에 영향을 준 것으로 보임."
+ },
+ "acceptance": "사용자 2026-11-02 이미지·도감 커밋 및 main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0·4절에 따라 시각적 불일치는 기록해 업로드"
+}

@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "군나르의 아트게이르",
+ "slot": "awaken",
+ "style": "game_keyart",
+ "file": "군나르의_아트게이르_game_keyart_f_awaken.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "329f1878b325564fe10a58704f2dc76a5365f3636fd26884707e1c6abdd9252a",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "군나르의_아트게이르_game_keyart_f.webp",
+ "prompt": "records/군나르의_아트게이르/awaken-ui.json",
+ "prompt_sha256": "fa627226a3f0120c048e71aaf53ea0458704d96888e8ece03fd8dfcf4481a539",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": 0.9371210244238664
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-gunnar-20261102T0950",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "329f1878b325564fe10a58704f2dc76a5365f3636fd26884707e1c6abdd9252a",
+  "passed": false,
+  "observations": [
+   "1024×1536 원본 확인.",
+   "같은 얼굴·헤어·카메라·전신 자세·양손을 유지함.",
+   "적색 공명선과 발광 연결부가 활성화됨. 별도 무기·추가 팔다리 없음.",
+   "기준컷의 털 어깨 장식 일부가 날카로운 금속 구조로 바뀌어, 힘만 바꾼다는 지시에서 벗어남."
+  ],
+  "cause": "OUTPUT의 costume exactly와 legendary power 활성화가 동시에 적용되며 어깨 구조가 변형됨."
+ },
+ "acceptance": "사용자 2026-11-02 이미지·도감 커밋 및 main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0·4절에 따라 시각적 불일치는 기록해 업로드"
+}

@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "군나르의 아트게이르",
+ "slot": "casual5",
+ "style": "game_keyart",
+ "file": "군나르의_아트게이르_game_keyart_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "981e5c1106b3eb22a2286933c75bb4af85df699174b50c912f8ab0a0227e51db",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "군나르의_아트게이르_game_keyart_f.webp",
+ "prompt": "records/군나르의_아트게이르/casual5-ui.json",
+ "prompt_sha256": "042719e1595de245204df1b61f969db2c60f4b645db02f2e07b8268ab60adc5b",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-gunnar-20261102T0950",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "981e5c1106b3eb22a2286933c75bb4af85df699174b50c912f8ab0a0227e51db",
+  "passed": false,
+  "observations": [
+   "1024×1536 원본 확인.",
+   "같은 성인 인물·분홍 땋은 머리·붉은 눈. 별빛 무대와 검정 레이스 무대복, 갑옷과 별도 무기 없음.",
+   "볼에 손끝을 대고 카메라를 봄. 눈을 크게 뜨고 입을 벌린 표정.",
+   "쇄골에서 끝나는 face_close 대신 가슴까지 넓게 보임. 오른손 지정과 달리 인물의 왼손이 볼에 닿음."
+  ],
+  "cause": "CROP보다 의상 목선과 레이스 장식이 우선됨. RIGHT HAND와 화면 좌우가 혼동됨."
+ },
+ "acceptance": "사용자 2026-11-02 이미지·도감 커밋 및 main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0·4절에 따라 시각적 불일치는 기록해 업로드"
+}

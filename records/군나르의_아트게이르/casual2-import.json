@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "군나르의 아트게이르",
+ "slot": "casual2",
+ "style": "game_keyart",
+ "file": "군나르의_아트게이르_game_keyart_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "343009f4bfa88d8ccf7f9443c2cc923e2a3a079751e5bd2f8a123d7f5ea35a88",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "군나르의_아트게이르_game_keyart_f.webp",
+ "prompt": "records/군나르의_아트게이르/casual2-ui.json",
+ "prompt_sha256": "3d44eac2b503869687f6a40894eafc81d20c09c2ae0bb8386a184d5c6926d20f",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-gunnar-20261102T0950",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "343009f4bfa88d8ccf7f9443c2cc923e2a3a079751e5bd2f8a123d7f5ea35a88",
+  "passed": false,
+  "observations": [
+   "1024×1536 원본 확인.",
+   "같은 인물·분홍 땋은 머리·붉은 눈, 한 성인 여성, 자연스럽게 연결된 두 팔·두 다리.",
+   "사이클 복장, 오른손 물병과 왼팔 내림, 걷는 뒷모습 및 전신. 갑옷과 손에 든 무기 없음.",
+   "현대 훈련장 대신 목조 북유럽식 실내·방패·제례 장식. 먼 곳 시선 대신 돌아보는 시선, environmental보다 큰 피사체."
+  ],
+  "cause": "참조의 북유럽 장식·배경이 WARDROBE/now/GAZE 지시보다 강하게 유지됨."
+ },
+ "acceptance": "사용자 2026-11-02 이미지·도감 커밋 및 main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0·4절에 따라 시각적 불일치는 기록해 업로드"
+}

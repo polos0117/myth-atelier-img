@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "군나르의 아트게이르",
+ "slot": "base",
+ "style": "game_keyart",
+ "file": "군나르의_아트게이르_game_keyart_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "7d47e5c42a3b91734a640f26b7873c37316bba115672c86052fa67c6f018bb43",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": null,
+ "prompt": "records/군나르의_아트게이르/base-ui.json",
+ "prompt_sha256": "f1db4c8df2984bf4611ff87b40e0dec3a47ddc7e3fade0acfed37a5dc2c86a7c",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-gunnar-20261102T0950",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7d47e5c42a3b91734a640f26b7873c37316bba115672c86052fa67c6f018bb43",
+  "passed": true,
+  "observations": [
+   "1024×1536 원본 확인.",
+   "전신·머리·두 발·빈 양손이 프레임 안, 성인 여성 한 명, 팔 두 개와 다리 두 개가 자연스럽게 연결됨.",
+   "회철색 장갑, 적갈색 천과 결속선, 긴 창날형 장갑 윤곽과 동심원 공명 표현. 물푸레나무 갈색은 결속부의 작은 갈색 요소로 약하게 반영됨.",
+   "얼굴은 카메라 방향. 양손은 손 형태이며 별도 무기를 들지 않음. 읽히는 문자·로고 없음."
+  ],
+  "cause": null
+ },
+ "acceptance": "사용자 2026-11-02 이미지·도감 커밋 및 main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0·4절에 따라 시각적 불일치는 기록해 업로드"
+}

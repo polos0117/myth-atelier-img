@@ -1,0 +1,42 @@
+{
+ "version": 1,
+ "card": "군나르의 아트게이르",
+ "slot": "casual3",
+ "style": "game_keyart",
+ "file": "군나르의_아트게이르_game_keyart_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "85461be5138ba29e2a1bcc9e9c9098d1da64e2121a64ff86c256643c6672a2cb",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "군나르의_아트게이르_game_keyart_f.webp",
+ "prompt": "records/군나르의_아트게이르/casual3-ui.json",
+ "prompt_sha256": "11e263ab22fb870c8eae3eb9d24993177ef76cad5b78e3409673430097b57adc",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-gunnar-20261102T0950",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "85461be5138ba29e2a1bcc9e9c9098d1da64e2121a64ff86c256643c6672a2cb",
+  "passed": false,
+  "observations": [
+   "1024×1536 원본 확인.",
+   "같은 성인 인물·분홍 머리·붉은 눈·자연스러운 손. 벨벳 드레스와 촛불 연회장, 갑옷 없음.",
+   "시대 칸은 10세기 아이슬란드이나 유선 마이크가 남음.",
+   "오른손 지정과 달리 인물의 왼손이 마이크를 잡음. chest_up보다 넓게 허리까지 보임. 흐린 배경 인물은 주인공과 겹치지 않음.",
+   "원래 갑옷의 적색·은색 팔레트와 유사한 의상, 어깨 장식도 크게 남음."
+  ],
+  "cause": "ERA no modern objects와 PROP microphone이 충돌하며 현대 소품이 우선됨. RIGHT HAND와 화면 좌우가 혼동됨. CROP보다 의상 표현이 우선됨."
+ },
+ "acceptance": "사용자 2026-11-02 이미지·도감 커밋 및 main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0·4절에 따라 시각적 불일치는 기록해 업로드"
+}

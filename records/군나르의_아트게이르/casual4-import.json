@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "군나르의 아트게이르",
+ "slot": "casual4",
+ "style": "game_keyart",
+ "file": "군나르의_아트게이르_game_keyart_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f7e9b8d2ebb72b396d1d413d42f07d621cb8ac5016f28c2bc112e5034f250e51",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "군나르의_아트게이르_game_keyart_f.webp",
+ "prompt": "records/군나르의_아트게이르/casual4-ui.json",
+ "prompt_sha256": "e9dc2f93a5533f44880e6ee5576ac1e01fa8dfde5eb554975bebe9cf5a794d64",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-gunnar-20261102T0950",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f7e9b8d2ebb72b396d1d413d42f07d621cb8ac5016f28c2bc112e5034f250e51",
+  "passed": false,
+  "observations": [
+   "1024×1536 원본 확인.",
+   "같은 성인 여성의 분홍 머리·붉은 눈·얼굴, 주방에서 앞치마와 셔츠를 입고 편지를 두 손으로 읽음.",
+   "두 팔과 손목이 연결되고 두 다리 및 무릎이 자연스러움. 갑옷 없이 작은 펜형 장신구. 종이에는 읽을 수 없는 흘림선만 있음.",
+   "지정한 완전한 옆모습보다 3/4로 돌아온 몸·얼굴, just above knees보다 아래까지 포함한 구도. 졸린 표정은 약함."
+  ],
+  "cause": "COMPOSITION side profile 및 무릎 위 크롭보다 참조 얼굴 재현과 의상 표현이 우선됨."
+ },
+ "acceptance": "사용자 2026-11-02 이미지·도감 커밋 및 main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0·4절에 따라 시각적 불일치는 기록해 업로드"
+}

@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "군나르의 아트게이르",
+ "slot": "cursed",
+ "style": "game_keyart",
+ "file": "군나르의_아트게이르_game_keyart_f_cursed.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "919e4925c59345fb33a84e43a1889000ca58bec50de209c3c1ebab9cd4318f38",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "군나르의_아트게이르_game_keyart_f.webp",
+ "prompt": "records/군나르의_아트게이르/cursed-ui.json",
+ "prompt_sha256": "49ada0aca8866ef67f364b74a472a1c1ad884ff0c57eb2a1226c36a460f752c5",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": 0.9447618855866906
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-gunnar-20261102T0950",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "919e4925c59345fb33a84e43a1889000ca58bec50de209c3c1ebab9cd4318f38",
+  "passed": true,
+  "observations": [
+   "1024×1536 원본 확인.",
+   "기준컷과 같은 얼굴·자세·카메라 및 회철색 장갑 유지.",
+   "자주빛 균열·오염광과 해진 천, 비어 보이는 표정으로 비극 방향을 표현. 끊어진 활줄·거절당한 머리 타래의 구체적 서사는 약함.",
+   "한 성인 여성·두 빈손·두 팔·두 다리. 별도 무기와 읽히는 문자 없음."
+  ],
+  "cause": null
+ },
+ "acceptance": "사용자 2026-11-02 이미지·도감 커밋 및 main 일반 반영 승인; docs/IMAGE_AUTOMATION.md 0·4절에 따라 시각적 불일치는 기록해 업로드"
+}

@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "card": "훔바바의 일곱 광채",
+  "slot": "casual2",
+  "style": "game_keyart",
+  "file": "훔바바의_일곱_광채_game_keyart_f_casual2.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "91393e1b2891f2ca1e0be33adf7a0d7af2c37f8b97c343b1305895e36b7fb4ab",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "훔바바의_일곱_광채_game_keyart_f.webp",
+  "prompt": "records/훔바바의_일곱_광채/casual2-ui.json",
+  "prompt_sha256": "4dbc28539a6b7ea4ceec701b0e7d642575f957aaabb9b6a81ff99636f94d68aa",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null,
+    "contrast": 53.736
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-humbaba-1e1883",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "91393e1b2891f2ca1e0be33adf7a0d7af2c37f8b97c343b1305895e36b7fb4ab",
+    "passed": false,
+    "observations": [
+      "1024×1536; 같은 얼굴·주황색 머리·금빛 눈의 성인 여성 한 명",
+      "정원의 벽에 기댄 웨딩드레스와 베일; 오른손이 귀 옆 머리를 만지고 왼손은 프레임 밖",
+      "오른쪽 어깨·팔꿈치·손목·손 연결이 자연스럽고 추가 팔 없음",
+      "한쪽 눈을 감은 표정이지만 열린 눈이 프레임 왼쪽보다 카메라를 바라봄",
+      "단순한 슬립 드레스보다 레이스·꽃 장식이 많음; 갑옷·무기·글자·로고 없음"
+    ],
+    "cause": "GAZE toward the left보다 카메라 응시가 우선됨; simple slip wedding dress가 화려한 웨딩드레스로 변형됨."
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 커밋 및 main 일반 반영 승인; 자동화 규칙에 따라 시각적 어긋남을 기록해 반영"
+}

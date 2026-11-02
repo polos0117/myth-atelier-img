@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "card": "훔바바의 일곱 광채",
+  "slot": "base",
+  "style": "game_keyart",
+  "file": "훔바바의_일곱_광채_game_keyart_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "2b5800402ff624b9ca6b3fbda6d8533755bd2aa769cdd6c3ad0e9d5b0ac57511",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": null,
+  "prompt": "records/훔바바의_일곱_광채/base-ui.json",
+  "prompt_sha256": "b9abc0601ab03f3c81e46464e6d6ad667c8fdf44af2dfe66e58552434668b7f3",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null,
+    "contrast": 60.854
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-humbaba-1e1883",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "2b5800402ff624b9ca6b3fbda6d8533755bd2aa769cdd6c3ad0e9d5b0ac57511",
+    "passed": false,
+    "observations": [
+      "1024×1536, 성인 여성 한 명의 전신; 머리와 양발이 화면 안에 있음",
+      "주황색 긴 곱슬머리와 금빛 눈; 얼굴이 카메라를 향함",
+      "두 팔과 두 다리, 양손의 손목·팔 연결이 자연스러우며 빈손",
+      "청동 비늘 갑옷, 삼나무색 망토, 사자 송곳니 장식이 보임; 별도 무기·글자·로고 없음",
+      "후광이 일곱 개보다 많은 약 아홉 개로 보임"
+    ],
+    "cause": "WEAPON LOOK의 seven halos를 수치대로 구현하지 못함. 자동화 규칙에 따라 재생성 없이 어긋남을 기록해 반영."
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 커밋 및 main 일반 반영 승인; 자동화 규칙에 따라 시각적 어긋남을 기록해 반영"
+}

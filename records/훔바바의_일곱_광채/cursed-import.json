@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "card": "훔바바의 일곱 광채",
+  "slot": "cursed",
+  "style": "game_keyart",
+  "file": "훔바바의_일곱_광채_game_keyart_f_cursed.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "7d328b14669598e376ad8c287a94017a0c4f8274bd8392bf2044fedcdb56cfb0",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "훔바바의_일곱_광채_game_keyart_f.webp",
+  "prompt": "records/훔바바의_일곱_광채/cursed-ui.json",
+  "prompt_sha256": "e8dc57996446a79c347bf8b3059e752254c04c2106c9f9b9bc94276b7fd4e166",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.711281,
+    "contrast": 52.042
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-humbaba-1e1883",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "7d328b14669598e376ad8c287a94017a0c4f8274bd8392bf2044fedcdb56cfb0",
+    "passed": false,
+    "observations": [
+      "1024×1536; 기준컷과 얼굴·머리·전신 자세·양손·갑옷 구도가 유지됨",
+      "붉은 자주색 오염광, 금이 간 후광, 갈라져 빛이 새는 표면과 해진 망토로 전승의 파멸을 표현",
+      "성인 여성 한 명, 두 팔·두 다리, 양손 연결이 유지되며 별도 무기·글자·로고 없음",
+      "후광이 모두 남아 있어 하나씩 내준다는 전승은 직접 묘사되지 않음"
+    ],
+    "cause": "기준컷의 후광 개수 초과를 이어받음. 생성기 저주 원문이 오염과 파손에 집중하고 광채를 하나씩 내주는 장면을 지정하지 않음."
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 커밋 및 main 일반 반영 승인; 자동화 규칙에 따라 시각적 어긋남을 기록해 반영"
+}

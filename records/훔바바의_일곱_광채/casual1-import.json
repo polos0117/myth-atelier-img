@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "card": "훔바바의 일곱 광채",
+  "slot": "casual1",
+  "style": "game_keyart",
+  "file": "훔바바의_일곱_광채_game_keyart_f_casual1.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "ce861956af7af27c32976e1875c565d6a4f8bf9ee03c122f2b5868ea3e9a39fb",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "훔바바의_일곱_광채_game_keyart_f.webp",
+  "prompt": "records/훔바바의_일곱_광채/casual1-ui.json",
+  "prompt_sha256": "8a93d44c4f0f87e80416862508a227654a6482d08967c3639beb176b49232ad2",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null,
+    "contrast": 64.511
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-humbaba-1e1883",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "ce861956af7af27c32976e1875c565d6a4f8bf9ee03c122f2b5868ea3e9a39fb",
+    "passed": false,
+    "observations": [
+      "1024×1536; 같은 주황색 곱슬머리·금빛 눈의 성인 여성 한 명",
+      "산악 고개와 돌벽 앞에서 팔짱을 끼고 웃는 유니폼 의상; 갑옷과 손에 든 무기 없음",
+      "양팔은 어깨에서 이어지고 손은 팔짱 안쪽에 가려짐; 추가 팔 없음",
+      "가슴 위 계획보다 넓어 허리·골반 일부까지 보이며, 눈도 계획의 거의 감은 웃음보다 더 열려 있음",
+      "장식은 귀걸이·이마 장신구에 한정; 읽히는 글자·로고 없음"
+    ],
+    "cause": "CROP의 chest-up보다 넓게 그림; EXPRESSION의 eyes squeezed nearly shut 미준수."
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 커밋 및 main 일반 반영 승인; 자동화 규칙에 따라 시각적 어긋남을 기록해 반영"
+}

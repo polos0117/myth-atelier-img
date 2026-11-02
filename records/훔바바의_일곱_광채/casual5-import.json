@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "card": "훔바바의 일곱 광채",
+  "slot": "casual5",
+  "style": "game_keyart",
+  "file": "훔바바의_일곱_광채_game_keyart_f_casual5.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "b48c62fcf7474f19299df9df1482c00e245e50d81e13d95d28987950e8db17e6",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "훔바바의_일곱_광채_game_keyart_f.webp",
+  "prompt": "records/훔바바의_일곱_광채/casual5-ui.json",
+  "prompt_sha256": "a91d3571698518df56b83aacc8b4f6bed378e6303c49b38526675f3af6f44b20",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null,
+    "contrast": 53.052
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-humbaba-1e1883",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b48c62fcf7474f19299df9df1482c00e245e50d81e13d95d28987950e8db17e6",
+    "passed": false,
+    "observations": [
+      "1024×1536; 동일한 얼굴·주황색 머리·금빛 눈의 성인 여성 한 명이 카메라를 봄",
+      "고대풍 장터 배경, 린넨 일상복과 작은 금빛 장신구; 갑옷·손에 든 무기·글자·로고 없음",
+      "인물 오른손 검지를 입술에 댄 자세, 손목·팔 연결이 자연스러우며 왼손은 화면 밖",
+      "얼굴 클로즈업 계획보다 넓게 가슴과 상반신까지 보임"
+    ],
+    "cause": "CROP close-up의 쇄골 아래를 보여주지 말라는 조건보다 넓은 프레이밍으로 생성됨."
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 커밋 및 main 일반 반영 승인; 자동화 규칙에 따라 시각적 어긋남을 기록해 반영"
+}

@@ -1,0 +1,64 @@
+{
+ "version": 1,
+ "card": "훔바바의 일곱 광채",
+ "mode": "casual",
+ "slot": "casual5",
+ "style": "game_keyart",
+ "file": "훔바바의_일곱_광채_game_keyart_f_casual5.webp",
+ "record": "records/훔바바의_일곱_광채/casual5-ui.json",
+ "at": "2026-11-02T14:21:38.875Z",
+ "storage": {
+  "__card": "훔바바의 일곱 광채",
+  "__myth": "westasia",
+  "훔바바의 일곱 광채": {
+   "style": "game_keyart",
+   "output": "casual",
+   "action": "",
+   "casualIndex": 5,
+   "scene": "",
+   "params": {},
+   "design": "mecha",
+   "extras": {
+    "embodiment": false,
+    "silhouette": false,
+    "myth": false
+   },
+   "skin": "",
+   "skinState": "base",
+   "casual": {
+    "treeV": 2,
+    "era": "in_myth",
+    "place": "myth_market",
+    "ofam": "homewear",
+    "item": "linen_lounge",
+    "expr": "mischievous",
+    "outfit": "",
+    "scene": "",
+    "custom": "",
+    "preset": "shush_close",
+    "use": "",
+    "posture": "stand",
+    "support": "none",
+    "frame": "face_close",
+    "body": "front",
+    "head": "with_body",
+    "camera": "eye",
+    "right": "shush",
+    "left": "out",
+    "legs": "",
+    "gaze": "camera",
+    "axes": {
+     "overall_intensity": "strong",
+     "skin_exposure": "bold",
+     "weapon_influence": "balanced",
+     "separates_preference": "strongly prefer separates"
+    },
+    "locks": {
+     "axes.overall_intensity": true,
+     "axes.skin_exposure": true
+    }
+   }
+  }
+ },
+ "prompt": "CHARACTER: Seven Radiances of Humbaba (훔바바의 일곱 광채) personified — the same woman as the attached image. She is the human form of the armor of West Asia myth.\n\nSTYLE: Polished 2.5D game key art with clean linework, controlled anime facial design, layered cel-to-soft shading and crisp costume and weapon detail. Use a vivid, readable silhouette and campaign-quality lighting.\n\nIMAGE-GUIDED CONTINUATION. Use the attached approved image of this character as the identity input. Preserve face geometry, age, ethnicity, eye shape and colors, skin tone, hair color and cut, height and body proportions; expression and natural hair motion may change, not facial structure or haircut. Render her in the selected style rather than copying the attached image’s rendering.\n\nOUTPUT: one standalone off-duty scene of the same woman as the attached image, in the outfit chosen in SCENE. Everything else follows SCENE (chosen).\n\nShow one woman in a coherent everyday, fashion or other requested scene. Ordinary clothing is the default; her mecha armor never appears in a casual scene. Her weapon shows only as a small accessory or an object in the scene — never in the outfit’s colours, patterns or cut, and never as an object she holds. Never require cosplay of the weapon.\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose it for this frame, not the attached card art’s framing; COMPOSITION in SCENE sets how much of her shows and the selected rendering style controls lighting and surfaces.\n\nCROP: a close-up — her face and hair fill most of the frame and the bottom edge crosses at her collarbones; nothing below the shoulders shows, and her hands and anything she holds stay below the frame unless raised to her face. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nWORLD: this scene happens inside the world of West Asia myth, as if she simply lives there — its own recognisable halls, groves, shores and skies. Its architecture, props, light and weather show the world; no gods, heroes or creatures from the myth, no text.\n\nSCENE (chosen):\nPlace: a market street of her myth's world\nOutfit: a light linen lounge set\nPOSTURE: standing.\nCOMPOSITION: a close-up of her face and hair; body facing the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nRIGHT HAND: her own right index finger rests against her lips in a hush.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks into the camera.\nEXPRESSION: narrowed sparkling eyes, one brow up, closed-lip grin pushed to one side.\noverall intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest\nweapon influence: balanced — a few weapon-themed accessories or objects in the scene, never in the clothing\nseparates preference: strongly prefer separates — use separate top and bottom by default; explicit outfit takes priority\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its armor, plates, glowing lines, ornaments or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image’s palette, patterns or trim into the outfit; her weapon belongs in accessories and props, never in the clothes.\n\nClothing remains clothing: distinguish fabric from exposed skin through garment edges, seams, drape and material-appropriate folds. Preserve the requested fabric and finish, including satin, leather or other explicitly chosen materials; do not force everything matte. Exposed skin is living skin with soft anatomical shading, no panel seams or metallic reflections. Do not turn garments into rigid shells or introduce mechanical parts.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer’s.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nOne face and one coherent body. No childlike age regression, no identity replacement, no collage, no captions, no logos, no watermarks. Keep facial identity and anatomy independent of rendering stylization and outfit volume.\n\nBefore finishing, verify one woman, the same identity as the attached image, a casual scene with no armor and no weapon in hand, coherent anatomy and the selected rendering style.\n\nONE FIGURE ONLY. No second character, no creature, no text, no lettering on banners or walls, no logo, no watermark, no speech bubble, no frame border."
+}

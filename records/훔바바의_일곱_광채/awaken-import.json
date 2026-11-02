@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "card": "훔바바의 일곱 광채",
+  "slot": "awaken",
+  "style": "game_keyart",
+  "file": "훔바바의_일곱_광채_game_keyart_f_awaken.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "7b36f395a6671c8c896811e92f030d34a0b3a9ab802f44e5abcd4fda15b88408",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "훔바바의_일곱_광채_game_keyart_f.webp",
+  "prompt": "records/훔바바의_일곱_광채/awaken-ui.json",
+  "prompt_sha256": "3c1205bb72ee2f3a3397554440339ec817d93353c4410271948ab208fdc4812b",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.810332,
+    "contrast": 62.185
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-humbaba-1e1883",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "7b36f395a6671c8c896811e92f030d34a0b3a9ab802f44e5abcd4fda15b88408",
+    "passed": false,
+    "observations": [
+      "1024×1536; 기준컷과 얼굴·머리·전신 자세·양손·갑옷·촬영 구도가 유지됨",
+      "금빛 후광과 발광선, 삼나무 잎과 주변 광휘가 강화됨",
+      "여성 한 명, 두 팔·두 다리, 빈 양손; 글자·로고·별도 무기 없음",
+      "기준컷의 후광 개수 초과도 그대로 이어짐"
+    ],
+    "cause": "기준컷의 후광 개수 어긋남을 동일 구도 파생이 이어받음."
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 커밋 및 main 일반 반영 승인; 자동화 규칙에 따라 시각적 어긋남을 기록해 반영"
+}

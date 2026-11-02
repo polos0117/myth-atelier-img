@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "card": "훔바바의 일곱 광채",
+  "slot": "casual4",
+  "style": "game_keyart",
+  "file": "훔바바의_일곱_광채_game_keyart_f_casual4.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "952dbfa00f36365e4afdf490b1a25034e137044df50b01ec6d5f1dde8ba4d82f",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "훔바바의_일곱_광채_game_keyart_f.webp",
+  "prompt": "records/훔바바의_일곱_광채/casual4-ui.json",
+  "prompt_sha256": "575fc2d6554a8c95269dc2e385fb4602d23b300bd6704bee763fb4050c565d9d",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null,
+    "contrast": 55.787
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-humbaba-1e1883",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "952dbfa00f36365e4afdf490b1a25034e137044df50b01ec6d5f1dde8ba4d82f",
+    "passed": false,
+    "observations": [
+      "1024×1536; 동일한 주황색 곱슬머리·금빛 눈의 성인 여성 한 명, 갑옷과 손에 든 무기 없음",
+      "꽃가게에서 쪼그려 앉아 오른손 물뿌리개로 화분에 물을 주며 왼손은 무릎 위; 손·팔·다리·발 연결과 수가 자연스러움",
+      "전신과 양발이 프레임 안에 있고 시선은 화분 쪽; 손에 든 것은 물뿌리개 하나",
+      "고대풍 건축과 청동 용기가 보이나 드레스의 긴 천·현대식 높은 굽이 선택한 미니 드레스·시대 제약과 다름; 읽히는 글자·로고 없음"
+    ],
+    "cause": "ERA의 period clothing only와 Outfit의 cocktail mini dress 사이에서 현대식 높은 굽·긴 드레이프가 남음. 자동화 규칙에 따라 어긋남을 기록해 반영."
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 커밋 및 main 일반 반영 승인; 자동화 규칙에 따라 시각적 어긋남을 기록해 반영"
+}

@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "card": "훔바바의 일곱 광채",
+  "slot": "casual3",
+  "style": "game_keyart",
+  "file": "훔바바의_일곱_광채_game_keyart_f_casual3.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "03b8f4ab3570ba35a82b34b8c47910b108be5e6ba2db39e7359cf5b69952348a",
+    "note": "원본 PNG는 올리지 않고 sha256만 기록"
+  },
+  "reference": "훔바바의_일곱_광채_game_keyart_f.webp",
+  "prompt": "records/훔바바의_일곱_광채/casual3-ui.json",
+  "prompt_sha256": "864d84e0b9815eaef28fc0cbdca302bf8bf710d5880b1ba05110946b0c9f2387",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null,
+    "contrast": 55.722
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-humbaba-1e1883",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "03b8f4ab3570ba35a82b34b8c47910b108be5e6ba2db39e7359cf5b69952348a",
+    "passed": false,
+    "observations": [
+      "1024×1536; 주황색 긴 머리와 금빛 눈의 같은 성인 여성 한 명, 사막 길에서 걸어가는 후면 전신",
+      "킬트 응용 체크 스커트와 니트 상의, 토트백; 갑옷과 손에 든 무기·글자·로고 없음",
+      "두 팔·양손·두 다리의 수와 연결은 자연스러우나 가방끈을 왼손으로 잡고 오른손은 내려 계획의 오른손 소품·왼손 내림과 반대",
+      "계획의 몸과 같은 뒤쪽 머리 방향보다 옆으로 돌아본 얼굴이며, 환경 구도보다 인물 비중이 큼"
+    ],
+    "cause": "PROP의 own right hand와 LEFT HAND의 side-down 배치를 좌우 반대로 구현; head same as body 및 environmental보다 인물과 옆얼굴 강조. 원래 계획은 네 번 필터 거절되어 규정의 한 번 재계획으로 변경."
+  },
+  "acceptance": "user_approval_2026-11-02 — 이미지·도감 커밋 및 main 일반 반영 승인; 자동화 규칙에 따라 시각적 어긋남을 기록해 반영"
+}

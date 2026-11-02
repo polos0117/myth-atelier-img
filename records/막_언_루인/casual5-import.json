@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "막 언 루인",
+  "slot": "casual5",
+  "style": "game_keyart",
+  "file": "막_언_루인_game_keyart_f_casual5.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "df2985f29af5657ad455faf8e752172b062dcf6e5220b3020eafbce4e745037a",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "막_언_루인_game_keyart_f.webp",
+  "prompt": "records/막_언_루인/casual5-ui.json",
+  "prompt_sha256": "f01d11c9ca43b8b7b93b401385a74088e3aa932d8a6a727e37b45737809087c1",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-03",
+  "execution": "myth-mac-an-luin-a2b2d4a8cf76",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "df2985f29af5657ad455faf8e752172b062dcf6e5220b3020eafbce4e745037a",
+    "passed": false,
+    "observations": [
+      "1024×1536, 2:3 세로 원본 확인.",
+      "같은 얼굴·갈색 머리·호박색 눈, 시골 역 배경과 머릿수건·캣아이 안경.",
+      "셀카 구도로 오른팔이 화면 밖으로 자연스럽게 이어지고 추가 손/팔 없음. 왼손 프레임 밖.",
+      "쇄골 아래가 보이지 않아야 할 face_close 계획과 달리 상체가 넓게 포함됨."
+    ],
+    "cause": "CROP close-up보다 수영복 네크라인과 셀카 팔을 표시하며 프레이밍 확대."
+  },
+  "acceptance": "user_approval_2026-11-03 — 묻지 않고 검수 기록과 함께 올림"
+}

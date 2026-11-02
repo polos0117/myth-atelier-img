@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "막 언 루인",
+  "slot": "cursed",
+  "style": "game_keyart",
+  "file": "막_언_루인_game_keyart_f_cursed.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "b9c20cd86352796cbd9589937e9ae1c34227f6a7cd2845ab8dc368817b94bf64",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "막_언_루인_game_keyart_f.webp",
+  "prompt": "records/막_언_루인/cursed-ui.json",
+  "prompt_sha256": "5489d0d2d80cf31edaa91b1e6a2de1e1de7b099b7177d4e45896da1b0d6067bd",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.739636
+  },
+  "imported": "2026-11-03",
+  "execution": "myth-mac-an-luin-a2b2d4a8cf76",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b9c20cd86352796cbd9589937e9ae1c34227f6a7cd2845ab8dc368817b94bf64",
+    "passed": false,
+    "observations": [
+      "1024×1536, 2:3 세로 원본 확인.",
+      "기준컷과 같은 얼굴·머리·자세·은색 장갑·빈손 구도.",
+      "적자색 균열·눈의 오염광·찢어진 천과 깨진 연어 후광 확인.",
+      "카드 curse.text의 구원의 물을 흘리는 사건은 구체적으로 나타나지 않음."
+    ],
+    "cause": "생성기 저주 출력에는 카드 curse.text가 없어 일반적인 오염/비극만 반영됨."
+  },
+  "acceptance": "user_approval_2026-11-03 — 묻지 않고 검수 기록과 함께 올림"
+}

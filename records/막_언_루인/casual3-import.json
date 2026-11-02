@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "막 언 루인",
+  "slot": "casual3",
+  "style": "game_keyart",
+  "file": "막_언_루인_game_keyart_f_casual3.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8014799becafbc1db9f883e18b61c6ab122aa227ece8aba6bde5239364586d94",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "막_언_루인_game_keyart_f.webp",
+  "prompt": "records/막_언_루인/casual3-ui.json",
+  "prompt_sha256": "88f3a685f9b5632fb0c6dc66d34fc79f5209dffced46db89a64b7840babd88b2",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-03",
+  "execution": "myth-mac-an-luin-a2b2d4a8cf76",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8014799becafbc1db9f883e18b61c6ab122aa227ece8aba6bde5239364586d94",
+    "passed": false,
+    "observations": [
+      "1024×1536, 2:3 세로 원본 확인.",
+      "같은 얼굴·갈색 머리·호박색 눈, 전통 화실·토기 배경과 천 비키니.",
+      "오른손 엄지 척, 왼손 허리, 어깨-팔꿈치-손목 연결 자연스러움.",
+      "허리 위 crop보다 넓어 골반·허벅지 상단이 보이고 옷에 기준컷의 숲색이 반복됨."
+    ],
+    "cause": "CROP waist-up과 의상 high-waisted bikini 지시에서 하의까지 표시하려고 프레이밍 확대. WARDROBE 독립 팔레트 지시 미준수."
+  },
+  "acceptance": "user_approval_2026-11-03 — 묻지 않고 검수 기록과 함께 올림"
+}

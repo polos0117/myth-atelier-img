@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "card": "막 언 루인",
+  "slot": "awaken",
+  "style": "game_keyart",
+  "file": "막_언_루인_game_keyart_f_awaken.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "b3a26ee96372f4413debc1adc9a6b92ff2b0003ba1a54316390885bc82f49389",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "막_언_루인_game_keyart_f.webp",
+  "prompt": "records/막_언_루인/awaken-ui.json",
+  "prompt_sha256": "b079aa51a784b6173d5c45812182a53a826885966141afe8889b948519f2d4ce",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.806423
+  },
+  "imported": "2026-11-03",
+  "execution": "myth-mac-an-luin-a2b2d4a8cf76",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "b3a26ee96372f4413debc1adc9a6b92ff2b0003ba1a54316390885bc82f49389",
+    "passed": true,
+    "observations": [
+      "1024×1536, 2:3 세로 원본 확인.",
+      "기준컷과 같은 얼굴·머리·자세·장갑·두 손·전신 구도.",
+      "원래 장갑과 연어/참나무 문양의 발광, 눈과 호박 장신구 빛만 강화. 별도 무기 없음."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-11-03 — 묻지 않고 검수 기록과 함께 올림"
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "막 언 루인",
+  "slot": "casual2",
+  "style": "game_keyart",
+  "file": "막_언_루인_game_keyart_f_casual2.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "18200dab7517e224a15980ff21153de7b3b2b7c93d0b2d039d091e1f60d21e95",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "막_언_루인_game_keyart_f.webp",
+  "prompt": "records/막_언_루인/casual2-ui.json",
+  "prompt_sha256": "a955e1360538e54af1b0e3efc50c0fb99ca778daa95143efc3b6cdfef6678e74",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-03",
+  "execution": "myth-mac-an-luin-a2b2d4a8cf76",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "18200dab7517e224a15980ff21153de7b3b2b7c93d0b2d039d091e1f60d21e95",
+    "passed": false,
+    "observations": [
+      "1024×1536, 2:3 세로 원본 확인.",
+      "같은 얼굴·머리·눈과 전신, 장터 배경, 한 손 흔들기·다른 손 옆으로 내림. 팔 추가나 손 단절 없음.",
+      "한 벌의 로우백 이브닝 드레스 계획과 달리 분리형 상의/스커트.",
+      "몸과 얼굴의 순수 옆모습 대신 3/4 뒤에서 돌아보며, 까치발도 뚜렷하지 않음."
+    ],
+    "cause": "명시 의상이 있는데 separates preference가 충돌했을 가능성. COMPOSITION profile보다 low-back 의상과 참조 얼굴을 우선함."
+  },
+  "acceptance": "user_approval_2026-11-03 — 묻지 않고 검수 기록과 함께 올림"
+}

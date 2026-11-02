@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "막 언 루인",
+  "slot": "casual4",
+  "style": "game_keyart",
+  "file": "막_언_루인_game_keyart_f_casual4.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "d8544b1eaab1b3fa63df79f6fac7368036f0f73cbade4597d3b01e3365d3961a",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "막_언_루인_game_keyart_f.webp",
+  "prompt": "records/막_언_루인/casual4-ui.json",
+  "prompt_sha256": "a56df60ccb9e6e583f492514c0500450628c911e56a83388dd36c94a9383b398",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-03",
+  "execution": "myth-mac-an-luin-a2b2d4a8cf76",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "d8544b1eaab1b3fa63df79f6fac7368036f0f73cbade4597d3b01e3365d3961a",
+    "passed": true,
+    "observations": [
+      "1024×1536, 2:3 세로 원본 확인.",
+      "같은 얼굴·머리·눈, 무도회장과 베일/스위트하트 웨딩 드레스.",
+      "앉은 옆모습과 교차한 무릎, 잔을 든 손과 무릎 위 손이 각각 두 팔로 자연스럽게 이어짐.",
+      "갑옷과 손의 무기·글자 없음. 잔을 내려다보는 시선 확인."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-11-03 — 묻지 않고 검수 기록과 함께 올림"
+}

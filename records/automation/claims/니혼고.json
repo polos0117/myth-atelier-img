@@ -4,7 +4,7 @@
   {
    "key": "니혼고",
    "execution": "myth-nihongo-ab84425f4a21",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T12:18:51.442Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -17,7 +17,9 @@
     "니혼고_game_keyart_f_casual3.webp",
     "니혼고_game_keyart_f_casual4.webp",
     "니혼고_game_keyart_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T12:37:52.894Z",
+   "done_by": "myth-nihongo-ab84425f4a21"
   }
  ]
 }

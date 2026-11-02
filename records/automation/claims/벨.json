@@ -1,4 +1,25 @@
 {
  "key": "벨",
- "runs": [{"key":"벨","execution":"myth-vel-60e783","status":"working","claimed_at":"2026-11-02T13:07:48.749Z","date_kst":"2026-11-02","date_utc":"2026-11-02","missing":["벨_game_keyart_f.webp","벨_game_keyart_f_awaken.webp","벨_game_keyart_f_cursed.webp","벨_game_keyart_f_casual1.webp","벨_game_keyart_f_casual2.webp","벨_game_keyart_f_casual3.webp","벨_game_keyart_f_casual4.webp","벨_game_keyart_f_casual5.webp"]}]
+ "runs": [
+  {
+   "key": "벨",
+   "execution": "myth-vel-60e783",
+   "status": "complete",
+   "claimed_at": "2026-11-02T13:07:48.749Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "벨_game_keyart_f.webp",
+    "벨_game_keyart_f_awaken.webp",
+    "벨_game_keyart_f_cursed.webp",
+    "벨_game_keyart_f_casual1.webp",
+    "벨_game_keyart_f_casual2.webp",
+    "벨_game_keyart_f_casual3.webp",
+    "벨_game_keyart_f_casual4.webp",
+    "벨_game_keyart_f_casual5.webp"
+   ],
+   "done_at": "2026-11-02T13:24:01.695Z",
+   "done_by": "myth-vel-60e783"
+  }
+ ]
 }

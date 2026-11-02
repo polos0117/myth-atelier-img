@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "테세우스의 검",
+ "slot": "casual3",
+ "style": "game_keyart",
+ "file": "테세우스의_검_game_keyart_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "dcbfd4684d73a7fd8d52b6e858aae07f045c483834c195d3ab791a28a3c61a1c",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "테세우스의_검_game_keyart_f.webp",
+ "prompt": "records/테세우스의_검/casual3-ui.json",
+ "prompt_sha256": "c378c38987a860fbf861f8bde81f6f98a1afe7751c8e8700c79ad146105572c8",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null,
+  "contrast": 38.907
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-theseus-2a0dc0fdbe4d",
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "observations": [
+   "은발·성인 얼굴·혼례 의상과 장신구를 유지한 밝은 실내 클로즈업, 웃는 표정과 입술에 닿은 검지.",
+   "보이는 손 하나가 손목·팔에 연결되며 추가 팔·손·인물·무기·글자 없음. 다른 손은 프레임 밖.",
+   "CROP의 쇄골 아래를 보이지 말라는 지시보다 넓어져 상반신이 더 보임. 배경은 미래적 곡선 스파보다 장식 많은 밝은 실내로 표현됨."
+  ],
+  "cause": "CROP(face_close, bottom at collarbones)보다 모델의 웨딩 인물화 구도가 우세해 흉부까지 확대됨. Place 미래형 스파의 고유 건축 요소 약함.",
+  "image_sha256": "dcbfd4684d73a7fd8d52b6e858aae07f045c483834c195d3ab791a28a3c61a1c"
+ },
+ "acceptance": "user_approval_2026-11-01 — AI 검수 뒤 묻지 않고 반영하며 사용자가 반영 뒤 본다"
+}

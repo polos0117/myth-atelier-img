@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "테세우스의 검",
+ "slot": "awaken",
+ "style": "game_keyart",
+ "file": "테세우스의_검_game_keyart_f_awaken.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "db52f4f349faf59721bb15477d00402c79744a8873395ed460cf279656579b6d",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "테세우스의_검_game_keyart_f.webp",
+ "prompt": "records/테세우스의_검/awaken-ui.json",
+ "prompt_sha256": "f4c7d8ccb46675a53b1eb6328c359a80ca48ddbfc818cd983a4c68f750db2824",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": 0.880281,
+  "contrast": 57.279
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-theseus-2a0dc0fdbe4d",
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "observations": [
+   "같은 얼굴·은발·상아빛 청동 갑옷과 두 팔·두 손·두 다리 배치 유지.",
+   "미궁 장식과 장갑의 금빛 발광선, 붉은 실을 따라 빛이 강화됨. 별도 무기 없음.",
+   "카메라·프레이밍·피사체 크기가 기준컷과 일치하며 글자·로고 없음."
+  ],
+  "cause": null,
+  "image_sha256": "db52f4f349faf59721bb15477d00402c79744a8873395ed460cf279656579b6d"
+ },
+ "acceptance": "user_approval_2026-11-01 — AI 검수 뒤 묻지 않고 반영하며 사용자가 반영 뒤 본다"
+}

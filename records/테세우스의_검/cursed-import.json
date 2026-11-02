@@ -1,0 +1,42 @@
+{
+ "version": 1,
+ "card": "테세우스의 검",
+ "slot": "cursed",
+ "style": "game_keyart",
+ "file": "테세우스의_검_game_keyart_f_cursed.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "2a14ec007d10cd590178bd3ba994f0b0dd7638019f1bc374193029a519ec5b23",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "테세우스의_검_game_keyart_f.webp",
+ "prompt": "records/테세우스의_검/cursed-ui.json",
+ "prompt_sha256": "3cbb2bdee3f1fcb8c9d749511b14e81ce8b53e5c39fa508b8a741c831bc50f3a",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": 0.818694,
+  "contrast": 61.371
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-theseus-2a0dc0fdbe4d",
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "observations": [
+   "기준컷의 얼굴·은발·장갑·양팔·양손·양발과 구도를 유지.",
+   "미궁 발광선이 적자색으로 오염되고 붉은 천·실이 찢어지며 균열과 빛 번짐이 추가됨.",
+   "추가 인물·별도 무기·글자·로고 없음.",
+   "검은 돛과 아버지의 익사라는 curse.text의 구체적 상징은 직접 나타나지 않음."
+  ],
+  "cause": "생성기 cursed 출력에 카드 curse.text가 삽입되지 않아 일반적인 적자색 오염·천 갈라짐만 지시됨. 규칙에 따라 원문을 수정하거나 재생성하지 않고 QA 실패 사항을 기록해 반영.",
+  "image_sha256": "2a14ec007d10cd590178bd3ba994f0b0dd7638019f1bc374193029a519ec5b23"
+ },
+ "acceptance": "user_approval_2026-11-01 — AI 검수 뒤 묻지 않고 반영하며 사용자가 반영 뒤 본다"
+}

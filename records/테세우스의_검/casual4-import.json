@@ -1,0 +1,42 @@
+{
+ "version": 1,
+ "card": "테세우스의 검",
+ "slot": "casual4",
+ "style": "game_keyart",
+ "file": "테세우스의_검_game_keyart_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "47901bd7ec9775b1b03b1c7b929735575734696fd157cfe187075c00395c8338",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "테세우스의_검_game_keyart_f.webp",
+ "prompt": "records/테세우스의_검/casual4-ui.json",
+ "prompt_sha256": "61ab2c066597128dc2bef1d8dac69d4abe7f0286235ce127b914ea964fc5867d",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null,
+  "contrast": 49.877
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-theseus-2a0dc0fdbe4d",
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "observations": [
+   "같은 은발·호박색 눈·성인 얼굴과 체형, 허리에 묶은 목욕 가운과 윙크를 확인.",
+   "양손을 엉덩이 양옆 돌 가장자리에 짚고 앉음. 양팔·양손의 어깨·손목 연결이 자연스러우며 무릎이 모임.",
+   "머리부터 무릎 위의 3/4 구도, 금속 갑옷·별도 무기·글자 없음.",
+   "신화 속 올리브 숲·바다·신전이 보이나, 열린 들판·성스러운 숲보다는 정원 테라스가 중심임."
+  ],
+  "cause": null,
+  "image_sha256": "47901bd7ec9775b1b03b1c7b929735575734696fd157cfe187075c00395c8338"
+ },
+ "acceptance": "user_approval_2026-11-01 — AI 검수 뒤 묻지 않고 반영하며 사용자가 반영 뒤 본다"
+}

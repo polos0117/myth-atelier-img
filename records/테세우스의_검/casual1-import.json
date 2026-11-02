@@ -1,0 +1,43 @@
+{
+ "version": 1,
+ "card": "테세우스의 검",
+ "slot": "casual1",
+ "style": "game_keyart",
+ "file": "테세우스의_검_game_keyart_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "3cc3d2d15a4c14263e3a4acaa0479e743145467fb0a204a2667bb89e4d1c55c5",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "테세우스의_검_game_keyart_f.webp",
+ "prompt": "records/테세우스의_검/casual1-ui.json",
+ "prompt_sha256": "8bbbabb303d813b105b4983494c8fbc3b16927c2c9fdb44acb6f8971908c89ac",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null,
+  "contrast": 59.231
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-theseus-2a0dc0fdbe4d",
+ "qa": {
+  "reviewer": "gpt",
+  "passed": false,
+  "observations": [
+   "같은 은발·호박색 눈의 성인 여성 한 명, 갑옷과 별도 무기 없음. 양팔·양손과 양다리 이어짐 확인.",
+   "젖은 골목·긴 환경 구도·새틴 슬립·걷기·카메라 소품을 확인.",
+   "계획과 달리 카메라가 인물 왼손에 있고 오른팔이 내려감. 머리·시선은 먼 곳 대신 어깨 너머 카메라 쪽으로 돌아옴.",
+   "슬립의 밑단이 곧지 않고 비대칭이며, 옷의 상아색과 머리장식은 기준컷과 유사해 의상 색 독립성이 약함.",
+   "먼 배경에 작은 흐린 행인이 있으나 주인공과 겹치거나 초점을 다투지 않음. 읽히는 글자 없음."
+  ],
+  "cause": "RIGHT HAND/LEFT HAND·GAZE·COMPOSITION(body back, head together) 지시보다 모델이 선택한 뒤돌아보기 패션 포즈가 우세. 참조 팔레트가 슬립 색에 영향. 재생성 없이 QA 기록.",
+  "image_sha256": "3cc3d2d15a4c14263e3a4acaa0479e743145467fb0a204a2667bb89e4d1c55c5"
+ },
+ "acceptance": "user_approval_2026-11-01 — AI 검수 뒤 묻지 않고 반영하며 사용자가 반영 뒤 본다"
+}

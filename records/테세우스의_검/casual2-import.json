@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "card": "테세우스의 검",
+ "slot": "casual2",
+ "style": "game_keyart",
+ "file": "테세우스의_검_game_keyart_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "68046dac55bfc9ba9d4c438d83c7cc7b3f32c97c13152b1732fb4ac77ab75471",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "테세우스의_검_game_keyart_f.webp",
+ "prompt": "records/테세우스의_검/casual2-ui.json",
+ "prompt_sha256": "2dac9ea6e94ae969702f60645a671dc8f816a5c99875d3f3d31d5815b930afeb",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null,
+  "contrast": 58.825
+ },
+ "imported": "2026-11-02",
+ "execution": "myth-theseus-2a0dc0fdbe4d",
+ "qa": {
+  "reviewer": "gpt",
+  "passed": true,
+  "observations": [
+   "같은 은발·호박색 눈·성인 얼굴과 체형, 성당의 촛불·의자·홀터 드레스·꽃다발·측면 전신을 확인.",
+   "두 손이 꽃 포장지와 줄기를 나누어 다루며 양팔과 두 다리가 정상 연결됨. 손과 발 모두 프레임 안.",
+   "기준컷의 상아색·금빛 장식과 비슷한 드레스여서 WARDROBE의 팔레트 분리 의도가 약함. 갑옷·별도 무기·글자 없음."
+  ],
+  "cause": null,
+  "image_sha256": "68046dac55bfc9ba9d4c438d83c7cc7b3f32c97c13152b1732fb4ac77ab75471"
+ },
+ "acceptance": "user_approval_2026-11-01 — AI 검수 뒤 묻지 않고 반영하며 사용자가 반영 뒤 본다"
+}

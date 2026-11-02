@@ -1,0 +1,23 @@
+{
+ "key": "군나르의_아트게이르",
+ "runs": [
+  {
+   "key": "군나르의_아트게이르",
+   "execution": "myth-gunnar-20261102T0950",
+   "status": "working",
+   "claimed_at": "2026-11-02T01:52:45.966Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "군나르의_아트게이르_game_keyart_f.webp",
+    "군나르의_아트게이르_game_keyart_f_awaken.webp",
+    "군나르의_아트게이르_game_keyart_f_cursed.webp",
+    "군나르의_아트게이르_game_keyart_f_casual1.webp",
+    "군나르의_아트게이르_game_keyart_f_casual2.webp",
+    "군나르의_아트게이르_game_keyart_f_casual3.webp",
+    "군나르의_아트게이르_game_keyart_f_casual4.webp",
+    "군나르의_아트게이르_game_keyart_f_casual5.webp"
+   ]
+  }
+ ]
+}

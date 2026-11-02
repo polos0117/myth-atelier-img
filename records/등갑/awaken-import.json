@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "card": "등갑",
+  "slot": "awaken",
+  "style": "game_keyart",
+  "file": "등갑_game_keyart_f_awaken.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "f5a5e7fc41a8800df13a0cc35f6a48b1b59002088f7b8688a0878c729d500b7b",
+    "note": "Original PNG not uploaded; SHA256 retained."
+  },
+  "reference": "등갑_game_keyart_f.webp",
+  "prompt": "records/등갑/awaken-ui.json",
+  "prompt_sha256": "3374f3c2ddb07bea6dd869f4e3cab16423a6776ddae3d4e28812e4fc1225f3cb",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.8286994662112988
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-deunggap-20261102-a049d9b002d5",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "f5a5e7fc41a8800df13a0cc35f6a48b1b59002088f7b8688a0878c729d500b7b",
+    "passed": false,
+    "observations": [
+      "Verified native 1024x1536 output.",
+      "Same face, pose, armor and camera as base; gold luminous weave and flowing waterlike aura.",
+      "Two empty human hands and two legs retained, no separate weapon.",
+      "Inherited weak mechanical articulation and top margin from base."
+    ],
+    "cause": "Observed deviations retained under docs/IMAGE_AUTOMATION.md single-generation policy; no visual reroll."
+  },
+  "acceptance": "user_approval_2026-11-01; current user authorized commit and main fast-forward update"
+}

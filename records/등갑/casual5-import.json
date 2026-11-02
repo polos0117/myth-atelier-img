@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "card": "등갑",
+  "slot": "casual5",
+  "style": "game_keyart",
+  "file": "등갑_game_keyart_f_casual5.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "6435b3f427486e62638b8ed458189c8822934acc4d24090e2f789dc53965a6be",
+    "note": "Original PNG not uploaded; SHA256 retained."
+  },
+  "reference": "등갑_game_keyart_f.webp",
+  "prompt": "records/등갑/casual5-ui.json",
+  "prompt_sha256": "90aea055aaf291b30bf8830547e1819b0aa67f43679929cb2b5c17fb2020d3b6",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-deunggap-20261102-a049d9b002d5",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "6435b3f427486e62638b8ed458189c8822934acc4d24090e2f789dc53965a6be",
+    "passed": false,
+    "observations": [
+      "Verified native 1024x1536 output.",
+      "Same adult woman, red party costume with horns and prop tail, tailoring studio.",
+      "Two connected arms: right on knee, left planted; two folded legs and feet visible, no armor.",
+      "Side-profile gaze is retained, but figure fills frame rather than environmental long shot.",
+      "Folded legs resemble side-seated overlap rather than clear cross-legged posture."
+    ],
+    "cause": "Observed deviations retained under docs/IMAGE_AUTOMATION.md single-generation policy; no visual reroll."
+  },
+  "acceptance": "user_approval_2026-11-01; current user authorized commit and main fast-forward update"
+}

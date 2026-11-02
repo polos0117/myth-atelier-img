@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "card": "등갑",
+  "slot": "cursed",
+  "style": "game_keyart",
+  "file": "등갑_game_keyart_f_cursed.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "5ca94acafb509d4c29162f02cd20f6d2365264e2cf72a6b5b2ee3b6f0891cd12",
+    "note": "Original PNG not uploaded; SHA256 retained."
+  },
+  "reference": "등갑_game_keyart_f.webp",
+  "prompt": "records/등갑/cursed-ui.json",
+  "prompt_sha256": "9a2bf28a853565262264976dcf55553d4a120ff86a56ea32b9e47b4c9f30efe2",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": 0.9007138188835365
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-deunggap-20261102-a049d9b002d5",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "5ca94acafb509d4c29162f02cd20f6d2365264e2cf72a6b5b2ee3b6f0891cd12",
+    "passed": false,
+    "observations": [
+      "Verified native 1024x1536 output.",
+      "Same face, pose, armor and camera as base; red-violet glowing cracks and frayed leaves.",
+      "Two empty hands and two legs retained, no separate weapon.",
+      "Curse depicts corruption and splintering; valley-fire tragedy is only indirectly suggested by emberlike light.",
+      "Inherited weak mechanical articulation and top margin from base."
+    ],
+    "cause": "Observed deviations retained under docs/IMAGE_AUTOMATION.md single-generation policy; no visual reroll."
+  },
+  "acceptance": "user_approval_2026-11-01; current user authorized commit and main fast-forward update"
+}

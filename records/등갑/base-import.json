@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "card": "등갑",
+  "slot": "base",
+  "style": "game_keyart",
+  "file": "등갑_game_keyart_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "aa40ff04e71914284960bcb1a0e73f4785df3dc3130be0f02e03c1191f58da2b",
+    "note": "Original PNG not uploaded; SHA256 retained."
+  },
+  "reference": null,
+  "prompt": "records/등갑/base-ui.json",
+  "prompt_sha256": "e0198a9e1e65972e7936ca0084fff4a156f9e446866c97c4862e83d1a11eb73f",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "composition_match": null
+  },
+  "imported": "2026-11-02",
+  "execution": "myth-deunggap-20261102-a049d9b002d5",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "aa40ff04e71914284960bcb1a0e73f4785df3dc3130be0f02e03c1191f58da2b",
+    "passed": false,
+    "observations": [
+      "Verified native 1024x1536 output.",
+      "One adult woman, full body with both feet visible; head ornament meets top edge rather than clear top margin.",
+      "Two connected arms and legs; both empty hands visible, no separate weapon, no readable text.",
+      "Honey-amber woven cane plates, cord ties, dark brown undersuit and green leaf layers match look.",
+      "Mechanical joints and binders are weak: result reads primarily as woven fantasy armor."
+    ],
+    "cause": "Observed deviations retained under docs/IMAGE_AUTOMATION.md single-generation policy; no visual reroll."
+  },
+  "acceptance": "user_approval_2026-11-01; current user authorized commit and main fast-forward update"
+}

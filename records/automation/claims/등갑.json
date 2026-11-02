@@ -1,0 +1,23 @@
+{
+ "key": "등갑",
+ "runs": [
+  {
+   "key": "등갑",
+   "execution": "myth-deunggap-20261102-a049d9b002d5",
+   "status": "working",
+   "claimed_at": "2026-11-02T11:57:32.878Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "등갑_game_keyart_f.webp",
+    "등갑_game_keyart_f_awaken.webp",
+    "등갑_game_keyart_f_cursed.webp",
+    "등갑_game_keyart_f_casual1.webp",
+    "등갑_game_keyart_f_casual2.webp",
+    "등갑_game_keyart_f_casual3.webp",
+    "등갑_game_keyart_f_casual4.webp",
+    "등갑_game_keyart_f_casual5.webp"
+   ]
+  }
+ ]
+}

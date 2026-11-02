@@ -4,7 +4,7 @@
   {
    "key": "훔바바의_일곱_광채",
    "execution": "myth-humbaba-1e1883",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T14:09:57.478Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -17,7 +17,9 @@
     "훔바바의_일곱_광채_game_keyart_f_casual3.webp",
     "훔바바의_일곱_광채_game_keyart_f_casual4.webp",
     "훔바바의_일곱_광채_game_keyart_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T14:29:15.340Z",
+   "done_by": "myth-humbaba-1e1883"
   }
  ]
 }

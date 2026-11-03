@@ -1,41 +1,43 @@
 {
-  "version": 1,
-  "card": "쌍둥이의 공놀이 허리띠",
-  "slot": "casual5",
-  "style": "game_keyart",
-  "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_casual5.webp",
-  "source": {
-    "kind": "generated",
-    "tool": "image_gen (built-in)",
-    "format": "png",
-    "size": [
-      1024,
-      1536
-    ],
-    "sha256": "4e391ae2a6d931b0df4c4e2c8f0fb0507842ada2a30b4dc89f19c2c596f27f8f",
-    "note": "원본 PNG는 올리지 않고 sha256만 기록"
-  },
-  "reference": "쌍둥이의_공놀이_허리띠_game_keyart_f.webp",
-  "prompt": "records/쌍둥이의_공놀이_허리띠/casual5-ui.json",
-  "prompt_sha256": "954170d5dc05622c1336f9eb3d204c894d3432f9073df8ac7e6d78fb61f48d06",
-  "converted": {
-    "format": "webp",
-    "quality": 90,
-    "composition_match": null
-  },
-  "imported": "2026-11-03",
-  "execution": "myth-twins-belt-18d6",
-  "qa": {
-    "reviewer": "gpt",
-    "image_sha256": "4e391ae2a6d931b0df4c4e2c8f0fb0507842ada2a30b4dc89f19c2c596f27f8f",
-    "passed": false,
-    "observations": [
-      "1024×1536, 인물 한 명, 읽히는 글자·로고 없음.",
-      "성 계단 옆 벽, 흰 비즈 웨딩드레스, 팔짱과 무심한 표정.",
-      "양팔이 어깨부터 교차되며 한 손은 반대 상완 위, 다른 손은 팔짱에 가려짐. 추가 손·팔 없음.",
-      "chest_up보다 아래 허리까지 보이는 넓은 크롭. 머리에 꽃 장식이 추가되었으나 녹색 머리·금색 눈·피부와 얼굴 정체성 유지."
-    ],
-    "cause": "CROP의 가슴 위 프레이밍보다 BOTH HANDS 팔짱을 보여주는 구도가 우선됨."
-  },
-  "acceptance": "user_approval_2026-11-03 — 요청 범위에서 추가 확인 없이 생성·검수 기록 후 커밋 및 main 일반 반영"
+ "version": 1,
+ "card": "쌍둥이의 공놀이 허리띠",
+ "slot": "casual5",
+ "style": "game_keyart",
+ "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "093a0fc92fbce15b638695165dd715dc50c69a404ecbf8ccea8af98558a26cda",
+  "note": "원본 PNG는 커밋하지 않음"
+ },
+ "reference": "쌍둥이의_공놀이_허리띠_game_keyart_f.webp (이번 재작업 기준컷)",
+ "prompt": "records/쌍둥이의_공놀이_허리띠/casual5-ui.json",
+ "prompt_sha256": "73106d76b1cc07231b361cd68f36ad648c1990124e9abe6bac3e560912be593e",
+ "submitted_prompt": "CHARACTER: Ballgame Yoke of the Hero Twins (쌍둥이의 공놀이 허리띠) personified — the same woman as the attached image. She is the human form of the armor of Americas myth.\n\nSTYLE: Polished 2.5D game key art, painterly and semi-realistic: a face modelled in soft 3D shading on nose, cheekbones, lips and jaw, soft-coloured contours instead of dark ink lines, crisp costume and weapon detail, a vivid readable silhouette and campaign-quality lighting. Not flat cel-shaded 2D anime, not a chibi or moe face, not photoreal.\n\nIMAGE-GUIDED CONTINUATION. Use the attached approved image of this character as the identity input. Preserve face geometry, age, ethnicity, eye shape and colors, skin tone, hair color and cut, height and body proportions; expression and natural hair motion may change, not facial structure or haircut. Render her in the selected style rather than copying the attached image’s rendering.\n\nOUTPUT: one standalone off-duty scene of the same woman as the attached image, in the outfit chosen in SCENE. Everything else follows SCENE (chosen).\n\nShow one woman in a coherent everyday, fashion or other requested scene. Ordinary clothing is the default; her mecha armor never appears in a casual scene. Her weapon shows only as a small accessory or an object in the scene — never in the outfit’s colours, patterns or cut, and never as an object she holds. Never require cosplay of the weapon.\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose it for this frame, not the attached card art’s framing; COMPOSITION in SCENE sets how much of her shows and the selected rendering style controls lighting and surfaces.\n\nCROP: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nSETTING: a stylised stage, editorial or fantasy set, not bound to a real year — still one real adult woman in a believable space, no creatures.\n\nSCENE (chosen):\nPlace: the grand staircase of an old castle\nOutfit: a short beaded after-party wedding dress\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a chest-up shot of her face, shoulders and expression; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nBOTH HANDS: her arms are folded loosely across her chest.\nGAZE: she looks into the camera.\nEXPRESSION: lidded half-open eyes, slack mouth, brows flat and unengaged.\noverall intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest\nweapon influence: subtle — one small weapon-themed accessory, never in the clothing\nseparates preference: balanced — choose either a one-piece outfit or separates to suit the scene\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its armor, plates, glowing lines, ornaments or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image’s palette, patterns or trim into the outfit; her weapon belongs in accessories and props, never in the clothes.\n\nClothing remains clothing: distinguish fabric from exposed skin through garment edges, seams, drape and material-appropriate folds. Preserve the requested fabric and finish, including satin, leather or other explicitly chosen materials; do not force everything matte. Exposed skin is living skin with soft anatomical shading, no panel seams or metallic reflections. Do not turn garments into rigid shells or introduce mechanical parts.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer’s.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nOne face and one coherent body. No childlike age regression, no identity replacement, no collage, no captions, no logos, no watermarks. Keep facial identity and anatomy independent of rendering stylization and outfit volume.\n\nBefore finishing, verify one woman, the same identity as the attached image, a casual scene with no armor and no weapon in hand, coherent anatomy and the selected rendering style.\n\nONE FIGURE ONLY. No second character, no creature, no text, no lettering on banners or walls, no logo, no watermark, no speech bubble, no frame border.",
+ "submitted_prompt_sha256": "73106d76b1cc07231b361cd68f36ad648c1990124e9abe6bac3e560912be593e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null,
+  "source_contrast": 49.96302917514042
+ },
+ "imported": "2026-11-03",
+ "execution": "myth-twins-restyle-d4ff",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "093a0fc92fbce15b638695165dd715dc50c69a404ecbf8ccea8af98558a26cda",
+  "passed": true,
+  "observations": [
+   "성 계단·벽에 기대 팔짱·비즈 웨딩 드레스·가슴 위 가까운 구도, 같은 성인 얼굴과 녹색 머리·금색 눈",
+   "한 손은 팔 위, 다른 손은 팔 아래 가림. 보이는 팔/손 연결 자연스러움, 추가팔 없음",
+   "단일 구형 팔찌 장식으로 허리띠 공 모티프, 갑옷 없음"
+  ],
+  "cause": null
+ },
+ "acceptance": "2026-11-03 사용자 화풍 재작업 및 이미지/기록 교체·커밋·일반 main push 승인. QA 이탈 보존."
 }

@@ -1,41 +1,43 @@
 {
-  "version": 1,
-  "card": "쌍둥이의 공놀이 허리띠",
-  "slot": "casual4",
-  "style": "game_keyart",
-  "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_casual4.webp",
-  "source": {
-    "kind": "generated",
-    "tool": "image_gen (built-in)",
-    "format": "png",
-    "size": [
-      1024,
-      1536
-    ],
-    "sha256": "b098998fa8433adefe3a3e85ee5950c95ba9c36d71c7c08e304e6d0a6e5d04c1",
-    "note": "원본 PNG는 올리지 않고 sha256만 기록"
-  },
-  "reference": "쌍둥이의_공놀이_허리띠_game_keyart_f.webp",
-  "prompt": "records/쌍둥이의_공놀이_허리띠/casual4-ui.json",
-  "prompt_sha256": "c511a730cb5cbc2e3852602243000d6fc2688418ec052ba0877aa398d26d52da",
-  "converted": {
-    "format": "webp",
-    "quality": 90,
-    "composition_match": null
-  },
-  "imported": "2026-11-03",
-  "execution": "myth-twins-belt-18d6",
-  "qa": {
-    "reviewer": "gpt",
-    "image_sha256": "b098998fa8433adefe3a3e85ee5950c95ba9c36d71c7c08e304e6d0a6e5d04c1",
-    "passed": false,
-    "observations": [
-      "1024×1536, 인물 한 명, 읽히는 글자·로고 없음.",
-      "버건디 벨리댄스 상하의, 등 3/4, 오른손 카메라와 내려진 왼손. 두 팔 연결 정상.",
-      "계획의 역·승강장 대신 신화 유적 회랑으로 나옴. 머리 회전은 자기 왼쪽 어깨보다 오른쪽 어깨 방향으로 읽힘.",
-      "카메라는 손잡이에 연결되고 추가 팔다리 없음."
-    ],
-    "cause": "SCENE의 현대 역 장소와 신화의 옛 땅 시대 선택이 충돌해 참조 유적 배경이 우세. COMPOSITION의 자기 왼쪽 어깨 지시도 반대로 해석됨."
-  },
-  "acceptance": "user_approval_2026-11-03 — 요청 범위에서 추가 확인 없이 생성·검수 기록 후 커밋 및 main 일반 반영"
+ "version": 1,
+ "card": "쌍둥이의 공놀이 허리띠",
+ "slot": "casual4",
+ "style": "game_keyart",
+ "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "530ae05df14b914144e51164a083ac988b421bee8b02dc41c2796a3b5374471d",
+  "note": "원본 PNG는 커밋하지 않음"
+ },
+ "reference": "쌍둥이의_공놀이_허리띠_game_keyart_f.webp (이번 재작업 기준컷)",
+ "prompt": "records/쌍둥이의_공놀이_허리띠/casual4-ui.json",
+ "prompt_sha256": "4808efb86b21b137c9eafa581bfb39915ef7a8be3c3d85a586fae68751833166",
+ "submitted_prompt": "CHARACTER: Ballgame Yoke of the Hero Twins (쌍둥이의 공놀이 허리띠) personified — the same woman as the attached image. She is the human form of the armor of Americas myth.\n\nSTYLE: Polished 2.5D game key art, painterly and semi-realistic: a face modelled in soft 3D shading on nose, cheekbones, lips and jaw, soft-coloured contours instead of dark ink lines, crisp costume and weapon detail, a vivid readable silhouette and campaign-quality lighting. Not flat cel-shaded 2D anime, not a chibi or moe face, not photoreal.\n\nIMAGE-GUIDED CONTINUATION. Use the attached approved image of this character as the identity input. Preserve face geometry, age, ethnicity, eye shape and colors, skin tone, hair color and cut, height and body proportions; expression and natural hair motion may change, not facial structure or haircut. Render her in the selected style rather than copying the attached image’s rendering.\n\nOUTPUT: one standalone off-duty scene of the same woman as the attached image, in the outfit chosen in SCENE. Everything else follows SCENE (chosen).\n\nShow one woman in a coherent everyday, fashion or other requested scene. Ordinary clothing is the default; her mecha armor never appears in a casual scene. Her weapon shows only as a small accessory or an object in the scene — never in the outfit’s colours, patterns or cut, and never as an object she holds. Never require cosplay of the weapon.\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose it for this frame, not the attached card art’s framing; COMPOSITION in SCENE sets how much of her shows and the selected rendering style controls lighting and surfaces.\n\nERA: set this scene in the time and land of her legend — the Classic Maya world, 3rd–9th century. Re-imagine the chosen place, activity and outfit as they would exist there, keeping two or three recognisable parts of the chosen outfit; a job that did not exist then becomes its closest period counterpart. Period clothing only, not her armor; no modern objects.\n\nSCENE (chosen):\nPlace: a city station platform or the inside of a commuter train\nOutfit: a belly dance costume with a coin-trimmed bra top and a low-slung chiffon skirt\nPOSTURE: walking.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body turned three-quarters away from the camera; head turned back over her own left shoulder — the shoulder on the image's left side; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP — on the image's right side, since her back is to the camera.\nLEFT HAND: her own left arm hangs relaxed at her side — on the image's left side, since her back is to the camera.\nPROP: with her own right hand she carries a camera by its grip at her side; it is all she holds.\nLEGS: paused mid-walk, weight on the front foot.\nGAZE: she looks into the camera.\nEXPRESSION: challenging eyes under lowered lids, one brow raised, mouth corner tugged in a slight smirk.\noverall intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nweapon influence: balanced — a few weapon-themed accessories or objects in the scene, never in the clothing\nseparates preference: balanced — choose either a one-piece outfit or separates to suit the scene\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its armor, plates, glowing lines, ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image’s palette, patterns or trim into the outfit; her weapon belongs in accessories and props, never in the clothes.\n\nLOOK-BACK: her back is toward the camera and her head turns at most a quarter turn over one shoulder — the face shows in profile or three-quarter view, never full-front on a back-facing torso. Her chin sits just above the near shoulder, the far eye and cheek may be partly hidden, the side of the neck shows the turn and the shoulder line continues behind the head. Where her eyes go follows GAZE.\n\nClothing remains clothing: distinguish fabric from exposed skin through garment edges, seams, drape and material-appropriate folds. Preserve the requested fabric and finish, including satin, leather or other explicitly chosen materials; do not force everything matte. Exposed skin is living skin with soft anatomical shading, no panel seams or metallic reflections. Do not turn garments into rigid shells or introduce mechanical parts.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer’s.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nOne face and one coherent body. No childlike age regression, no identity replacement, no collage, no captions, no logos, no watermarks. Keep facial identity and anatomy independent of rendering stylization and outfit volume.\n\nBefore finishing, verify one woman, the same identity as the attached image, a casual scene with no armor and no weapon in hand, coherent anatomy and the selected rendering style.\n\nONE FIGURE ONLY. No second character, no creature, no text, no lettering on banners or walls, no logo, no watermark, no speech bubble, no frame border.",
+ "submitted_prompt_sha256": "4808efb86b21b137c9eafa581bfb39915ef7a8be3c3d85a586fae68751833166",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null,
+  "source_contrast": 53.78263867741489
+ },
+ "imported": "2026-11-03",
+ "execution": "myth-twins-restyle-d4ff",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "530ae05df14b914144e51164a083ac988b421bee8b02dc41c2796a3b5374471d",
+  "passed": false,
+  "observations": [
+   "옛 마야 도시 회랑·코인 벨리댄스 의상·뒤 3/4 돌아보기·오른손 카메라·내린 왼손, 팔 연결 확인",
+   "시대 재해석 지시와 카메라 소품 지시 충돌이 남아 현대 렌즈 카메라가 그려짐",
+   "어깨 너머로 돌아보는 선택이 왼쪽 대신 오른쪽으로 보이며 하단이 무릎 근처까지 넓어짐"
+  ],
+  "cause": "ERA no modern objects와 PROP camera 충돌, LOOK-BACK 방향 이탈"
+ },
+ "acceptance": "2026-11-03 사용자 화풍 재작업 및 이미지/기록 교체·커밋·일반 main push 승인. QA 이탈 보존."
 }

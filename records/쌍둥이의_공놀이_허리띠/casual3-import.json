@@ -1,41 +1,42 @@
 {
-  "version": 1,
-  "card": "쌍둥이의 공놀이 허리띠",
-  "slot": "casual3",
-  "style": "game_keyart",
-  "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_casual3.webp",
-  "source": {
-    "kind": "generated",
-    "tool": "image_gen (built-in)",
-    "format": "png",
-    "size": [
-      1024,
-      1536
-    ],
-    "sha256": "c26155c04867266a801b8a4d8db2f12b11af315f639215eeded866166f39657c",
-    "note": "원본 PNG는 올리지 않고 sha256만 기록"
-  },
-  "reference": "쌍둥이의_공놀이_허리띠_game_keyart_f.webp",
-  "prompt": "records/쌍둥이의_공놀이_허리띠/casual3-ui.json",
-  "prompt_sha256": "698ebda0f2d5317654d57f14d580c41cf86517fcb2a1c3b34635502c1b028bb2",
-  "converted": {
-    "format": "webp",
-    "quality": 90,
-    "composition_match": null
-  },
-  "imported": "2026-11-03",
-  "execution": "myth-twins-belt-18d6",
-  "qa": {
-    "reviewer": "gpt",
-    "image_sha256": "c26155c04867266a801b8a4d8db2f12b11af315f639215eeded866166f39657c",
-    "passed": false,
-    "observations": [
-      "1024×1536, 인물 한 명, 읽히는 글자·로고 없음.",
-      "신화 샘과 노천탕, 목욕 유카타와 수건, 걷는 전신, 카메라 시선.",
-      "오른손은 가슴 앞 수건, 왼팔은 몸 옆으로 내려 두 팔이 자연스럽게 연결됨. 두 다리와 발 정상.",
-      "원본의 큰 옥 귀걸이와 이마 장신구가 일부 이어져 작은 장신구 하나만 지시보다 많음."
-    ],
-    "cause": "WARDROBE의 원본 장신구 제거와 weapon influence의 작은 장신구 하나 제한이 일부 누락됨."
-  },
-  "acceptance": "user_approval_2026-11-03 — 요청 범위에서 추가 확인 없이 생성·검수 기록 후 커밋 및 main 일반 반영"
+ "version": 1,
+ "card": "쌍둥이의 공놀이 허리띠",
+ "slot": "casual3",
+ "style": "game_keyart",
+ "file": "쌍둥이의_공놀이_허리띠_game_keyart_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "607b51694c14d7cadf89c7e961ed802176e11601758a6e7a8d81f807b1345de6",
+  "note": "원본 PNG는 커밋하지 않음"
+ },
+ "reference": "쌍둥이의_공놀이_허리띠_game_keyart_f.webp (이번 재작업 기준컷)",
+ "prompt": "records/쌍둥이의_공놀이_허리띠/casual3-ui.json",
+ "prompt_sha256": "bed151989e3d90be918e2f9917ff2749e2f848476c42317b401fa3aac26049a7",
+ "submitted_prompt": "CHARACTER: Ballgame Yoke of the Hero Twins (쌍둥이의 공놀이 허리띠) personified — the same woman as the attached image. She is the human form of the armor of Americas myth.\n\nSTYLE: Polished 2.5D game key art, painterly and semi-realistic: a face modelled in soft 3D shading on nose, cheekbones, lips and jaw, soft-coloured contours instead of dark ink lines, crisp costume and weapon detail, a vivid readable silhouette and campaign-quality lighting. Not flat cel-shaded 2D anime, not a chibi or moe face, not photoreal.\n\nIMAGE-GUIDED CONTINUATION. Use the attached approved image of this character as the identity input. Preserve face geometry, age, ethnicity, eye shape and colors, skin tone, hair color and cut, height and body proportions; expression and natural hair motion may change, not facial structure or haircut. Render her in the selected style rather than copying the attached image’s rendering.\n\nOUTPUT: one standalone off-duty scene of the same woman as the attached image, in the outfit chosen in SCENE. Everything else follows SCENE (chosen).\n\nShow one woman in a coherent everyday, fashion or other requested scene. Ordinary clothing is the default; her mecha armor never appears in a casual scene. Her weapon shows only as a small accessory or an object in the scene — never in the outfit’s colours, patterns or cut, and never as an object she holds. Never require cosplay of the weapon.\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose it for this frame, not the attached card art’s framing; COMPOSITION in SCENE sets how much of her shows and the selected rendering style controls lighting and surfaces.\n\nWORLD: this scene happens inside the world of Americas myth, as if she simply lives there — its own recognisable halls, groves, shores and skies. Its architecture, props, light and weather show the world; no gods, heroes or creatures from the myth, no text.\n\nSCENE (chosen):\nPlace: a sacred spring, stream or outdoor bath of her myth's world\nOutfit: a light cotton bath yukata with a soft sash\nPOSTURE: walking.\nCOMPOSITION: a full-body shot, her complete head, hands and feet inside the frame with restrained margins; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 35mm-equivalent environmental perspective balancing the woman and the setting with moderate depth.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left arm hangs relaxed at her side.\nPROP: with her own right hand she holds a towel folded against her chest; it is all she holds.\nLEGS: mid-stride, one heel lifting.\nGAZE: she looks into the camera.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\noverall intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\nweapon influence: subtle — one small weapon-themed accessory, never in the clothing\nseparates preference: prefer separates — prefer separate top and bottom unless outfit is explicitly specified\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its armor, plates, glowing lines, ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image’s palette, patterns or trim into the outfit; her weapon belongs in accessories and props, never in the clothes.\n\nClothing remains clothing: distinguish fabric from exposed skin through garment edges, seams, drape and material-appropriate folds. Preserve the requested fabric and finish, including satin, leather or other explicitly chosen materials; do not force everything matte. Exposed skin is living skin with soft anatomical shading, no panel seams or metallic reflections. Do not turn garments into rigid shells or introduce mechanical parts.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer’s.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nOne face and one coherent body. No childlike age regression, no identity replacement, no collage, no captions, no logos, no watermarks. Keep facial identity and anatomy independent of rendering stylization and outfit volume.\n\nBefore finishing, verify one woman, the same identity as the attached image, a casual scene with no armor and no weapon in hand, coherent anatomy and the selected rendering style.\n\nONE FIGURE ONLY. No second character, no creature, no text, no lettering on banners or walls, no logo, no watermark, no speech bubble, no frame border.",
+ "submitted_prompt_sha256": "bed151989e3d90be918e2f9917ff2749e2f848476c42317b401fa3aac26049a7",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "composition_match": null,
+  "source_contrast": 50.3686533458919
+ },
+ "imported": "2026-11-03",
+ "execution": "myth-twins-restyle-d4ff",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "607b51694c14d7cadf89c7e961ed802176e11601758a6e7a8d81f807b1345de6",
+  "passed": true,
+  "observations": [
+   "마야 노천탕·면 유카타·수건을 가슴 앞에 든 오른손·내린 왼팔·걷는 두 다리·전신 프레임 확인",
+   "얼굴과 녹색 머리 유지, 장갑 없음, 의상은 꽃무늬 목욕복으로 무기 문양 미사용"
+  ],
+  "cause": null
+ },
+ "acceptance": "2026-11-03 사용자 화풍 재작업 및 이미지/기록 교체·커밋·일반 main push 승인. QA 이탈 보존."
 }
